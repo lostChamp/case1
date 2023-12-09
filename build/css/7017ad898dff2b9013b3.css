@@ -6732,6 +6732,8 @@ textarea+label {
 .take__price {
 	margin-bottom: 15%;
 	height: 80px;
+	font-size: 22px;
+	line-height: 1.2
 }
 
 .btn_forward {
@@ -12426,7 +12428,7 @@ textarea+label {
 }
 
 .map-affiliates {
-	margin-top: 80px
+	margin-top: 0;
 }
 
 .map-affiliates__grid {
@@ -16674,7 +16676,15 @@ textarea+label {
 	border: 2px solid #e71762;
 	background: none;
 	transition: .1s ease-in-out;
-	transition-property: opacity
+	transition-property: opacity;
+	display: flex!important;
+}
+
+.address__map {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	gap: 150px;
 }
 
 .m-quiz__navigation .btn_back:after,.m-quiz__navigation .btn_back:before {
