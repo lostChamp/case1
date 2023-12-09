@@ -6652,7 +6652,6 @@ textarea+label {
 }
 
 .radio__item .text:before {
-	content: "";
 	position: absolute;
 	left: 0;
 	top: 0;
@@ -6728,6 +6727,11 @@ textarea+label {
 	align-items: center;
 	margin-top: 10px;
 	padding-right: 9px
+}
+
+.take__price {
+	margin-bottom: 15%;
+	height: 80px;
 }
 
 .btn_forward {
@@ -13288,8 +13292,8 @@ textarea+label {
 }
 
 .modal__form {
-	max-width: 330px;
-	margin-top: 35px
+	/*max-width: 330px;*/
+	margin-top: 35px;
 }
 
 .modal__form .input {
@@ -16348,7 +16352,8 @@ textarea+label {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	margin-bottom: 57px
+	margin-bottom: 57px;
+	color: #e71762;
 }
 
 .m-quiz__subtitle__text {
@@ -16381,7 +16386,15 @@ textarea+label {
 }
 
 .m-quiz__title span {
-	color: #367aca
+	color: #f36600;
+}
+
+.m-quiz__title {
+	color: #e71762;
+}
+
+.m-quiz__list span {
+	color: #e71762;
 }
 
 .m-quiz__list>li {
@@ -16527,16 +16540,16 @@ textarea+label {
 	line-height: 22px;
 	color: #354b5f;
 	text-align: center;
-	display: block
+	display: block;
 }
 
 .m-quiz__page .m-quiz__radio__images .radio__item.checked .radio__item__img-box {
-	border-color: #367aca
+	border-color: #f36600
 }
 
 .m-quiz__page .m-quiz__radio__images .radio__item.checked .radio__item__img-box:after {
-	border-color: #367aca;
-	background-color: #367aca
+	border-color: #f36600;
+	background-color: #f36600
 }
 
 .m-quiz__page .m-quiz__radio__text .radio__item {
@@ -16575,16 +16588,16 @@ textarea+label {
 }
 
 .m-quiz__page .m-quiz__radio__text .radio__item.checked {
-	border-color: #367aca
+	border-color: #f36600
 }
 
 .m-quiz__page .m-quiz__radio__text .radio__item.checked .text {
-	color: #367aca
+	color: #f36600
 }
 
 .m-quiz__page .m-quiz__radio__text .radio__item.checked:after {
-	border-color: #367aca;
-	background-color: #367aca
+	border-color: #f36600;
+	background-color: #f36600
 }
 
 .m-quiz__page .m-quiz__checkbox__text .checkbox__item {
@@ -17645,6 +17658,10 @@ textarea+label {
 	}
 }
 
+.input.input_phone_recaptcha {
+	display: none!important;
+}
+
 /*section reviews*/
 
 .reviews {
@@ -18298,7 +18315,6 @@ textarea+label {
 	width: 921px;
 	height: 921px;
 	border-radius: 50%;
-	background: linear-gradient(138.46deg,#d9eefd 16.06%,hsla(0,0%,100%,0) 71.85%);
 	z-index: -1
 }
 
