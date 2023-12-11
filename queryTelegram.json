@@ -1,0 +1,13 @@
+{
+    "options": {
+        "title": "title",
+        "bx": "ud",
+        "city": "66",
+        "utm": "utm_source",
+        "medium": "utm_medium",
+        "domen": "site.ru",
+        "data": {
+            "name": "value"
+        }
+    }
+}

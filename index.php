@@ -11,31 +11,6 @@
       <meta property="og:description" content="Имплантация и протезирование зубов по выгодным ценам. Звоните и записывайтесь на бесплатную консультацию!">
       <meta name="description" content="Имплантация и протезирование зубов по выгодным ценам. Звоните и записывайтесь на бесплатную консультацию!">
       <link rel="stylesheet" href="build/css/7017ad898dff2b9013b3.css">
-              <!-- Top.Mail.Ru counter -->
-        <script type="text/javascript">
-        var _tmr = window._tmr || (window._tmr = []);
-        _tmr.push({id: "3409115", type: "pageView", start: (new Date()).getTime()});
-        (function (d, w, id) {
-          if (d.getElementById(id)) return;
-          var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
-          ts.src = "https://top-fwz1.mail.ru/js/code.js";
-          var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
-          if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
-        })(document, window, "tmr-code");
-        </script>
-      <script type="text/javascript">
-         var _tmr = window._tmr || (window._tmr = []);
-         _tmr.push({id: "3409113", type: "pageView", start: (new Date()).getTime()});
-         (function (d, w, id) {
-            if (d.getElementById(id)) return;
-            var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
-            ts.src = "https://top-fwz1.mail.ru/js/code.js";
-            var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
-            if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
-         })(document, window, "tmr-code");
-      </script>
-        <noscript><div><img src="https://top-fwz1.mail.ru/counter?id=3409115;js=na" style="position:absolute;left:-9999px;" alt="Top.Mail.Ru" /></div></noscript>
-        <!-- /Top.Mail.Ru counter -->
    </head>
    <body>
       <div class="content ">
@@ -55,7 +30,7 @@
                         </div>
                         <div class="header__association">
                            <div class="text">Члены мировых сообществ цифровой имплантации</div>
-                           <div class="flags"> <i><img src="index.html" data-src="build/ii/8b1263e1fc5c589b218e84901e4e3f5a06b0a655.png" alt="" data-js="lazy"></i> <i><img src="index.html" data-src="build/ii/dc883f67c18235ee2c6a0c8c2ab713abc94bd27d.png" alt="" data-js="lazy"></i> <i><img src="index.html" data-src="build/ii/c3c83ab8a6edef83db29e15d0a58c03885e5ee44.png" alt="" data-js="lazy"></i> </div>
+                           <div class="flags"> <i><img src="index.php" data-src="build/ii/8b1263e1fc5c589b218e84901e4e3f5a06b0a655.png" alt="" data-js="lazy"></i> <i><img src="index.php" data-src="build/ii/dc883f67c18235ee2c6a0c8c2ab713abc94bd27d.png" alt="" data-js="lazy"></i> <i><img src="index.php" data-src="build/ii/c3c83ab8a6edef83db29e15d0a58c03885e5ee44.png" alt="" data-js="lazy"></i> </div>
                         </div>
                      </div> 
                      <div class="header__grid__right">
@@ -89,7 +64,7 @@
                                        <div>правда ли гарантия <b>пожизненная</b></div>
                                     </div>
                                  </div>
-                                 <a href="javascript:void(0);" class="btn btn_orange btn_tall btn_with-image" data-js-scroll-to="head-doctor"> <span class="blink"></span> <span class="text"> Узнать всю <b>правду</b> об&nbsp;имплантации </span> <i class="image"> <img src="index.html" data-src="build/ii/ab9da8979f20de868a4381f18b6a3a23e5b73a2d.png" alt="" data-js="lazy"> </i> </a>
+                                 <a href="javascript:void(0);" class="btn btn_orange btn_tall btn_with-image" data-js-scroll-to="head-doctor"> <span class="blink"></span> <span class="text"> Узнать всю <b>правду</b> об&nbsp;имплантации </span> <i class="image"> <img src="index.php" data-src="build/ii/ab9da8979f20de868a4381f18b6a3a23e5b73a2d.png" alt="" data-js="lazy"> </i> </a>
                               </div>
                               <div class="fs__appointment">
                                  <div class="fs__appointment__text"> <span> Или вы можете сразу записаться на бесплатную диагностику и&nbsp;получить честный <b>план лечения <br> + 3Д диагностику</b></b> </span> </div>
@@ -107,9 +82,9 @@
                            <a href="javascript:void(0);" class="btn btn_tall" data-js="popup" data-js-popup="modal-order-call" data-js-cbs=""> <span class="blink"></span> <span class="text"> Записаться на <b>бесплатную</b> диагностику у&nbsp;имплантолога </span> </a> 
                            <div class="fs__appointment__text"> <span> Или вы можете сразу записаться на бесплатную диагностику и&nbsp;получить честный <b>план лечения <br> + 3Д диагностику</b> </span> </div>
                         </div>
-                        <div class="fs__image"> <img src="index.html" data-src="build/ii/d003143d1b3ce60dffaecdb3cda1762500b0656e.png" alt="" data-js="lazy"> </div>
-                        <div class="fs__image fs__image_mobile"> <img src="index.html" data-src="build/ii/d003143d1b3ce60dffaecdb3cda1762500b0656e.png" alt="" data-js="lazy"> </div>
-<!--                        <div class="fs__small-image"> <img src="index.html" data-src="build/ii/d003143d1b3ce60dffaecdb3cda1762500b0656e.png" alt="" data-js="lazy"> </div>-->
+                        <div class="fs__image"> <img src="index.php" data-src="build/ii/d003143d1b3ce60dffaecdb3cda1762500b0656e.png" alt="" data-js="lazy"> </div>
+                        <div class="fs__image fs__image_mobile"> <img src="index.php" data-src="build/ii/d003143d1b3ce60dffaecdb3cda1762500b0656e.png" alt="" data-js="lazy"> </div>
+<!--                        <div class="fs__small-image"> <img src="index.php" data-src="build/ii/d003143d1b3ce60dffaecdb3cda1762500b0656e.png" alt="" data-js="lazy"> </div>-->
                      </div>
                   </div>
                </div>
@@ -123,10 +98,17 @@
                      <span>ваш случай?</span>
                   </div>
                   <div class="quiz__frame">
-                     <form action="/" method="POST" class="quiz__form" data-js="ajax-form" data-js-quiz="form" data-js-goal="form:complete" data-js-goal-data="{&quot;ym&quot;:&quot;form-send&quot;,&quot;gl&quot;:{&quot;action&quot;:&quot;g-send&quot;,&quot;category&quot;:&quot;g-form&quot;},&quot;vk&quot;:&quot;submit_application&quot;,&quot;my_target&quot;:&quot;submit_application&quot;}">
+                     <form action="/postBitrixTelegram.php" method="POST" class="quiz__form" data-js="ajax-form" data-js-quiz="form" data-js-goal="form:complete" data-js-goal-data="{&quot;ym&quot;:&quot;form-send&quot;,&quot;gl&quot;:{&quot;action&quot;:&quot;g-send&quot;,&quot;category&quot;:&quot;g-form&quot;},&quot;vk&quot;:&quot;submit_application&quot;,&quot;my_target&quot;:&quot;submit_application&quot;}">
                         <input type="hidden" name="tags" value="Заявка с квиза" class="input">
                         <input type="hidden" name="subject" value="Пройден тест (квиз)">
                         <input type="hidden" name="form_type" value="quiz">
+                         <input type="hidden" name="utm" value="<?= $_GET["utm_source"] ?? ''?>">
+                         <input type="hidden" name="title" value="<?= $_GET["title"] ?? ''?>">
+                         <input type="hidden" name="utm_campaign" value="<?= $_GET["utm_campaign"] ?? ''?>">
+                         <input type="hidden" name="utm_medium" value="<?= $_GET["utm_medium"] ?? ''?>">
+                         <input type="hidden" name="utm_content" value="<?= $_GET["utm_content"] ?? ''?>">
+                         <input type="hidden" name="utm_term" value="<?= $_GET["utm_term"] ?? ''?>">
+                         <input type="hidden" name="city" value="<?= $_GET["city"] ?? ''?>">
                         <div class="m-quiz__grid" data-js-quiz="grid">
                            <div class="m-quiz__first">
                               <h2 class="m-quiz__title">
@@ -347,7 +329,7 @@
                                        <input type="tel" class="input input_phone" name="id">
                                        <label>Ваш телефон</label>
                                     </div>
-                                    <input type="tel" class="input input_phone_recaptcha" name="phone" placeholder="+7 (___) ___-____">
+                                    <input type="tel" class="input input_phone_recaptcha" name="phone" placeholder="+79999999999">
                                     <div class="form__group">
                                        <button type="submit" class="btn btn_quiz">
                                           <span>Получить расчёт</span>
@@ -855,10 +837,10 @@
                      <div class="head-doctor__employee-wrapper">
                         <div>
                            <div class="head-doctor__image-wrapper">
-                              <div class="head-doctor__employee__image"> <img src="index.html" data-src="build/ii/d003143d1b3ce60dffaecdb3cda1762500b0656e.png" alt="" data-js="lazy"> </div>
+                              <div class="head-doctor__employee__image"> <img src="index.php" data-src="build/ii/d003143d1b3ce60dffaecdb3cda1762500b0656e.png" alt="" data-js="lazy"> </div>
                               <div class="head-doctor__employee__brands">
                                  <div> Сертифицированный эксперт </div>
-                                 <i><img src="index.html" data-src="build/ii/c29713053e4a852fae9dbe27b74b8511eb3f6bef.png" alt="" data-js="lazy"></i> <i><img src="index.html" data-src="build/ii/f6f93349d3f33c0101c3e0d353e3a076511f5e7f.png" alt="" data-js="lazy"></i> <i><img src="index.html" data-src="build/ii/6ee59eccdd37eab571ff1a9febb285dc44355041.png" alt="" data-js="lazy"></i> <i><img src="index.html" data-src="build/ii/3934aab1ccb4e99ab154fb7f261e5fd0cd452cdc.png" alt="" data-js="lazy"></i>
+                                 <i><img src="index.php" data-src="build/ii/c29713053e4a852fae9dbe27b74b8511eb3f6bef.png" alt="" data-js="lazy"></i> <i><img src="index.php" data-src="build/ii/f6f93349d3f33c0101c3e0d353e3a076511f5e7f.png" alt="" data-js="lazy"></i> <i><img src="index.php" data-src="build/ii/6ee59eccdd37eab571ff1a9febb285dc44355041.png" alt="" data-js="lazy"></i> <i><img src="index.php" data-src="build/ii/3934aab1ccb4e99ab154fb7f261e5fd0cd452cdc.png" alt="" data-js="lazy"></i>
                               </div>
                            </div>
                            <a href="javascript:void(0);" class="btn btn_orange btn_tall" data-js="popup" data-js-popup="modal-order-call" data-js-cbs=""> <span class="blink"></span> <span class="text"> Связаться с врачом </span> </a> 
@@ -874,11 +856,11 @@
                                     <div class="title"> Выполняет операции любой сложности: </div>
                                     <div class="list">
                                        <div>
-                                          <i><img src="index.html" data-src="build/ii/8eeff68d79aec5766bc070e4a14fc222e421ce93.png" alt="" data-js="lazy"></i> 
+                                          <i><img src="index.php" data-src="build/ii/8eeff68d79aec5766bc070e4a14fc222e421ce93.png" alt="" data-js="lazy"></i>
                                           <div> <b>Классическая</b> имплантация </div>
                                        </div>
                                        <div>
-                                          <i><img src="index.html" data-src="build/ii/e15b45e9cb5b221608bb31fbf9d2657e71d8f7e0.png" alt="" data-js="lazy"></i> 
+                                          <i><img src="index.php" data-src="build/ii/e15b45e9cb5b221608bb31fbf9d2657e71d8f7e0.png" alt="" data-js="lazy"></i>
                                           <div>
                                              Протезирование 
                                              <b>
@@ -887,7 +869,7 @@
                                           </div>
                                        </div>
                                        <div>
-                                          <i><img src="index.html" data-src="build/ii/93769043aa566ae1440ee398300a99055f38e803.png" alt="" data-js="lazy"></i> 
+                                          <i><img src="index.php" data-src="build/ii/93769043aa566ae1440ee398300a99055f38e803.png" alt="" data-js="lazy"></i>
                                           <div> Скуловая имплантация <b>Nobel Zygoma</b> </div>
                                        </div>
                                     </div>
@@ -915,7 +897,7 @@
                         </div>
                         <div class="head-doctor__awards">
                            <div class="title"> Член мировых сообществ цифровой стоматологии </div>
-                           <div class="icons"> <i><img src="index.html" data-src="build/ii/90dbae32dd464a3e3f75c67919dd7317fa1cdfd3.png" alt="" data-js="lazy"></i> <i><img src="index.html" data-src="build/ii/9e2d9f859224d7e5e29768a5e1bf26e902ebb648.png" alt="" data-js="lazy"></i> <i><img src="index.html" data-src="build/ii/06102fbe96df1644e8a44c40d4e96320ddab2e9e.png" alt="" data-js="lazy"></i> </div>
+                           <div class="icons"> <i><img src="index.php" data-src="build/ii/90dbae32dd464a3e3f75c67919dd7317fa1cdfd3.png" alt="" data-js="lazy"></i> <i><img src="index.php" data-src="build/ii/9e2d9f859224d7e5e29768a5e1bf26e902ebb648.png" alt="" data-js="lazy"></i> <i><img src="index.php" data-src="build/ii/06102fbe96df1644e8a44c40d4e96320ddab2e9e.png" alt="" data-js="lazy"></i> </div>
                         </div>
                      </div>
                   </div>
@@ -933,7 +915,7 @@
                   <div class="true-price__fake__note"> Наверняка вы видели рекламу <br> <b>имплантации за <span>10-15 тысяч</span></b> </div>
                   <div class="true-price__fake__grid">
                      <div>
-                        <div class="true-price__fake__images"> <i><img src="index.html" data-src="build/ii/088007e306868d6a2319217136dbbf895f053aef.jpg" alt="" data-js="lazy"></i> <i><img src="index.html" data-src="build/ii/c76097a0a2965b05ed3f433da8b76fa7674053b6.jpg" alt="" data-js="lazy"></i> <i><img src="index.html" data-src="build/ii/2eb766b61cb650913752b5514fb800a2a38c50c6.jpg" alt="" data-js="lazy"></i> <i><img src="index.html" data-src="build/ii/4fbbb6fcb4c91426db45bd026502089f166d4a09.jpg" alt="" data-js="lazy"></i> </div>
+                        <div class="true-price__fake__images"> <i><img src="index.php" data-src="build/ii/088007e306868d6a2319217136dbbf895f053aef.jpg" alt="" data-js="lazy"></i> <i><img src="index.php" data-src="build/ii/c76097a0a2965b05ed3f433da8b76fa7674053b6.jpg" alt="" data-js="lazy"></i> <i><img src="index.php" data-src="build/ii/2eb766b61cb650913752b5514fb800a2a38c50c6.jpg" alt="" data-js="lazy"></i> <i><img src="index.php" data-src="build/ii/4fbbb6fcb4c91426db45bd026502089f166d4a09.jpg" alt="" data-js="lazy"></i> </div>
                      </div>
                      <div>
                         <div class="true-price__fake__text">
@@ -946,7 +928,7 @@
                            </div>
                         </div>
                      </div>
-                     <i><img src="index.html" data-src="build/ii/f35505f1b278816aace3217362a47cdeb4baef0f.png" alt="" data-js="lazy"></i> 
+                     <i><img src="index.php" data-src="build/ii/f35505f1b278816aace3217362a47cdeb4baef0f.png" alt="" data-js="lazy"></i>
                   </div>
                </div>
                <div class="true-price__true">
@@ -958,7 +940,7 @@
                         </div>
                         <div>
                            <div class="true-price__true__note">
-                              <i><img src="index.html" data-src="build/ii/a249579ba2c1ab3f8a4c140b5d142972c3fe2f9c.png" alt="" data-js="lazy"></i> 
+                              <i><img src="index.php" data-src="build/ii/a249579ba2c1ab3f8a4c140b5d142972c3fe2f9c.png" alt="" data-js="lazy"></i>
                               <div>
                                  Одиночная <br>имплантация <span class="mobile">на&nbsp;Osstem (Ю.Корея)</span> 
                                  <div class="true-price__true__price">8 000&nbsp;₽</div>
@@ -981,19 +963,19 @@
                      <div class="variants__tabs" data-js="tabs">
                         <div class="variants__labels tabs__nav">
                            <div class="variants__label active">
-                              <i><img src="index.html" data-src="build/ii/5e66306bf6a1baaeafc4281ac7f7b8840da25ae8.png" alt="" data-js="lazy"></i> 
+                              <i><img src="index.php" data-src="build/ii/5e66306bf6a1baaeafc4281ac7f7b8840da25ae8.png" alt="" data-js="lazy"></i>
                               <div>Нет 1–2 зубов</div>
                            </div>
                            <div class="variants__label">
-                              <i><img src="index.html" data-src="build/ii/bbfd2dd634f2ae52c4fb10fe80552573af8440d3.png" alt="" data-js="lazy"></i> 
+                              <i><img src="index.php" data-src="build/ii/bbfd2dd634f2ae52c4fb10fe80552573af8440d3.png" alt="" data-js="lazy"></i>
                               <div>Нет 3–4 зубов</div>
                            </div>
                            <div class="variants__label">
-                              <i><img src="index.html" data-src="build/ii/505750e6d67e89ae120fcab8af21cb236e3809fd.png" alt="" data-js="lazy"></i> 
+                              <i><img src="index.php" data-src="build/ii/505750e6d67e89ae120fcab8af21cb236e3809fd.png" alt="" data-js="lazy"></i>
                               <div>Нет всех или почти всех зубов</div>
                            </div>
                            <div class="variants__label">
-                              <i><img src="index.html" data-src="build/ii/d5a5f7b4a4de0ca1ccdad4514d9c6e27eeb68527.png" alt="" data-js="lazy"></i> 
+                              <i><img src="index.php" data-src="build/ii/d5a5f7b4a4de0ca1ccdad4514d9c6e27eeb68527.png" alt="" data-js="lazy"></i>
                               <div>Сильная атрофия костной ткани</div>
                            </div>
                         </div>
@@ -1013,18 +995,18 @@
                               <div class="variants__tab__bottom">
                                  <div class="variants__tab__price">
                                     <div class="variants__price__item">
-                                       <i><img src="index.html" data-src="build/ii/337e7d34438899cfce63f3458221b97716b2f62c.png" alt="" data-js="lazy"></i> 
+                                       <i><img src="index.php" data-src="build/ii/337e7d34438899cfce63f3458221b97716b2f62c.png" alt="" data-js="lazy"></i>
                                        <div class="text">Osstem или Hiossen </div>
                                     </div>
                                     <div class="variants__price__item">
-                                       <i><img src="index.html" data-src="build/ii/54984dfc4f9d0bd521b62cc55e57aa8d801c5ea4.png" alt="" data-js="lazy"></i> 
+                                       <i><img src="index.php" data-src="build/ii/54984dfc4f9d0bd521b62cc55e57aa8d801c5ea4.png" alt="" data-js="lazy"></i>
                                        <div class="text_mobile">Коронка</div>
                                        <div class="text">Коронка</div>
                                     </div>
                                     <div class="variants__price__total">
                                        <div class="variants__price__total__price">от 10 000&nbsp;₽</div>
                                        <div class="installment">Рассрочка без % и&nbsp;первого взноса</div>
-                                       <div class="payments"> <i><img src="index.html" data-src="build/ii/edec3bbdea46c2372f5bab664ee5b56000c1c3cd.svg" alt="" data-js="lazy"></i> <i><img src="index.html" data-src="build/ii/0048d2729ba95e522ea85ee76fc4a5b92a3b8358.svg" alt="" data-js="lazy"></i> <i><img src="index.html" data-src="build/ii/ebac043031ca47a53d34d0fb1ba02e492fb155bc.svg" alt="" data-js="lazy"></i> </div>
+                                       <div class="payments"> <i><img src="index.php" data-src="build/ii/edec3bbdea46c2372f5bab664ee5b56000c1c3cd.svg" alt="" data-js="lazy"></i> <i><img src="index.php" data-src="build/ii/0048d2729ba95e522ea85ee76fc4a5b92a3b8358.svg" alt="" data-js="lazy"></i> <i><img src="index.php" data-src="build/ii/ebac043031ca47a53d34d0fb1ba02e492fb155bc.svg" alt="" data-js="lazy"></i> </div>
                                        <style>
                                           .anons{
                                           background: #fb1010;
@@ -1075,18 +1057,18 @@
                               <div class="variants__tab__bottom">
                                  <div class="variants__tab__price">
                                     <div class="variants__price__item">
-                                       <i><img src="index.html" data-src="build/ii/d1bcc4d72a9e9131c76e2a0fe4ae474d0b5802b5.png" alt="" data-js="lazy"></i> 
+                                       <i><img src="index.php" data-src="build/ii/d1bcc4d72a9e9131c76e2a0fe4ae474d0b5802b5.png" alt="" data-js="lazy"></i>
                                        <div class="text">Osstem или Hiossen </div>
                                     </div>
                                     <div class="variants__price__item">
-                                       <i><img src="index.html" data-src="build/ii/2f78cfef5d30bb88d9a894ae1c87997a14dc086f.png" alt="" data-js="lazy"></i> 
+                                       <i><img src="index.php" data-src="build/ii/2f78cfef5d30bb88d9a894ae1c87997a14dc086f.png" alt="" data-js="lazy"></i>
                                        <div class="text_mobile">Мост из коронок</div>
                                        <div class="text">Мост из коронок</div>
                                     </div>
                                     <div class="variants__price__total">
                                        <div class="variants__price__total__price">от 30 000&nbsp;₽</div>
                                        <div class="installment">Рассрочка без % и&nbsp;первого взноса</div>
-                                       <div class="payments"> <i><img src="index.html" data-src="build/ii/edec3bbdea46c2372f5bab664ee5b56000c1c3cd.svg" alt="" data-js="lazy"></i> <i><img src="index.html" data-src="build/ii/0048d2729ba95e522ea85ee76fc4a5b92a3b8358.svg" alt="" data-js="lazy"></i> <i><img src="index.html" data-src="build/ii/ebac043031ca47a53d34d0fb1ba02e492fb155bc.svg" alt="" data-js="lazy"></i> </div>
+                                       <div class="payments"> <i><img src="index.php" data-src="build/ii/edec3bbdea46c2372f5bab664ee5b56000c1c3cd.svg" alt="" data-js="lazy"></i> <i><img src="index.php" data-src="build/ii/0048d2729ba95e522ea85ee76fc4a5b92a3b8358.svg" alt="" data-js="lazy"></i> <i><img src="index.php" data-src="build/ii/ebac043031ca47a53d34d0fb1ba02e492fb155bc.svg" alt="" data-js="lazy"></i> </div>
                                        <style>
                                           .anons{
                                           background: #fb1010;
@@ -1137,18 +1119,18 @@
                               <div class="variants__tab__bottom">
                                  <div class="variants__tab__price">
                                     <div class="variants__price__item">
-                                       <i><img src="index.html" data-src="build/ii/6bbbfd5b1b6ab8eb0c36d61a0ecdec40df524f0d.png" alt="" data-js="lazy"></i> 
+                                       <i><img src="index.php" data-src="build/ii/6bbbfd5b1b6ab8eb0c36d61a0ecdec40df524f0d.png" alt="" data-js="lazy"></i>
                                        <div class="text">4 имплантa Osstem или Hiossen </div>
                                     </div>
                                     <div class="variants__price__item">
-                                       <i><img src="index.html" data-src="build/ii/5152f3a2e879eecaa269f2bc9724d9469a95ebc0.png" alt="" data-js="lazy"></i> 
+                                       <i><img src="index.php" data-src="build/ii/5152f3a2e879eecaa269f2bc9724d9469a95ebc0.png" alt="" data-js="lazy"></i>
                                        <div class="text_mobile">Неармирован-ный протез</div>
                                        <div class="text">Неармированный протез</div>
                                     </div>
                                     <div class="variants__price__total">
                                        <div class="variants__price__total__price">139 900&nbsp;₽</div>
                                        <div class="installment">Рассрочка без % и&nbsp;первого взноса</div>
-                                       <div class="payments"> <i><img src="index.html" data-src="build/ii/edec3bbdea46c2372f5bab664ee5b56000c1c3cd.svg" alt="" data-js="lazy"></i> <i><img src="index.html" data-src="build/ii/0048d2729ba95e522ea85ee76fc4a5b92a3b8358.svg" alt="" data-js="lazy"></i> <i><img src="index.html" data-src="build/ii/ebac043031ca47a53d34d0fb1ba02e492fb155bc.svg" alt="" data-js="lazy"></i> </div>
+                                       <div class="payments"> <i><img src="index.php" data-src="build/ii/edec3bbdea46c2372f5bab664ee5b56000c1c3cd.svg" alt="" data-js="lazy"></i> <i><img src="index.php" data-src="build/ii/0048d2729ba95e522ea85ee76fc4a5b92a3b8358.svg" alt="" data-js="lazy"></i> <i><img src="index.php" data-src="build/ii/ebac043031ca47a53d34d0fb1ba02e492fb155bc.svg" alt="" data-js="lazy"></i> </div>
                                        <style>
                                           .anons{
                                           background: #fb1010;
@@ -1199,17 +1181,17 @@
                               <div class="variants__tab__bottom">
                                  <div class="variants__tab__price">
                                     <div class="variants__price__item">
-                                       <i><img src="index.html" data-src="build/ii/f7cfba7e9fc4dd88498285a9c4cd792c88fde528.png" alt="" data-js="lazy"></i> 
+                                       <i><img src="index.php" data-src="build/ii/f7cfba7e9fc4dd88498285a9c4cd792c88fde528.png" alt="" data-js="lazy"></i>
                                        <div class="text">Удлинённые импланты Nobel</div>
                                     </div>
                                     <div class="variants__price__item">
-                                       <i><img src="index.html" data-src="build/ii/5152f3a2e879eecaa269f2bc9724d9469a95ebc0.png" alt="" data-js="lazy"></i> 
+                                       <i><img src="index.php" data-src="build/ii/5152f3a2e879eecaa269f2bc9724d9469a95ebc0.png" alt="" data-js="lazy"></i>
                                        <div class="text">Несъёмный протез из&nbsp;10&nbsp;зубов</div>
                                     </div>
                                     <div class="variants__price__total">
                                        <div class="variants__price__total__price">200 000&nbsp;₽</div>
                                        <div class="installment">Рассрочка без % и&nbsp;первого взноса</div>
-                                       <div class="payments"> <i><img src="index.html" data-src="build/ii/edec3bbdea46c2372f5bab664ee5b56000c1c3cd.svg" alt="" data-js="lazy"></i> <i><img src="index.html" data-src="build/ii/0048d2729ba95e522ea85ee76fc4a5b92a3b8358.svg" alt="" data-js="lazy"></i> <i><img src="index.html" data-src="build/ii/ebac043031ca47a53d34d0fb1ba02e492fb155bc.svg" alt="" data-js="lazy"></i> </div>
+                                       <div class="payments"> <i><img src="index.php" data-src="build/ii/edec3bbdea46c2372f5bab664ee5b56000c1c3cd.svg" alt="" data-js="lazy"></i> <i><img src="index.php" data-src="build/ii/0048d2729ba95e522ea85ee76fc4a5b92a3b8358.svg" alt="" data-js="lazy"></i> <i><img src="index.php" data-src="build/ii/ebac043031ca47a53d34d0fb1ba02e492fb155bc.svg" alt="" data-js="lazy"></i> </div>
                                        <style>
                                           .anons{
                                           background: #fb1010;
@@ -1250,10 +1232,16 @@
                   </div>
                   <div>
                      <div class="variants__form">
-                        <i class="variants__form__image"> <img src="index.html" data-src="build/ii/8f4a2a754e74b34afeb6e6487f77dedad036804e.png" alt="" data-js="lazy"> </i> 
+                        <i class="variants__form__image"> <img src="index.php" data-src="build/ii/8f4a2a754e74b34afeb6e6487f77dedad036804e.png" alt="" data-js="lazy"> </i>
                         <div class="variants__form__title"> Давайте начнём <br> <b>с&nbsp;бесплатной диагностики</b> </div>
-                        <form action="thanks.html" method="post" class="form" autocomplete="off">
-                           
+                        <form action="/postBitrixTelegram.php" method="post" class="form" autocomplete="off">
+                            <input type="hidden" name="utm" value="<?= $_GET["utm_source"] ?? ''?>">
+                            <input type="hidden" name="title" value="<?= $_GET["title"] ?? ''?>">
+                            <input type="hidden" name="utm_campaign" value="<?= $_GET["utm_campaign"] ?? ''?>">
+                            <input type="hidden" name="utm_medium" value="<?= $_GET["utm_medium"] ?? ''?>">
+                            <input type="hidden" name="utm_content" value="<?= $_GET["utm_content"] ?? ''?>">
+                            <input type="hidden" name="utm_term" value="<?= $_GET["utm_term"] ?? ''?>">
+                            <input type="hidden" name="city" value="<?= $_GET["city"] ?? ''?>">
                            <div class="form__group-wrapper">
                               <div class="form__group form__group_phone required"> <input type="text" class="input input_phone" name="phone" required="" placeholder="Ваш номер"> </div>
                               <div class="form__group form__group_button"> <button type="submit" class="btn btn_orange"> <span class="blink"></span> <span class="text">Записаться</span> </button> </div>
@@ -1266,25 +1254,25 @@
                      <div class="variants__about">
                         <div>
                            <div class="variants__about__item variants__about__item_with-icon">
-                              <i> <img src="index.html" data-src="build/ii/4347fd70f021bbfabdfad8cb01e442789e8fa5a4.jpg" alt="" data-js="lazy"></i> 
+                              <i> <img src="index.php" data-src="build/ii/4347fd70f021bbfabdfad8cb01e442789e8fa5a4.jpg" alt="" data-js="lazy"></i>
                               <div>
                                  <div class="variants__about__text"> У вас будут стоять <b>лучшие импланты</b> <br> в&nbsp;мире, независимо от бюджета </div>
                                    
                                  <div class="variants__about__brands">
                                      <div class="variants__about__brand">
-                                       <i><img src="index.html" data-src="build/ii/97888313402be0bed3052166b06e0ed9a043914d.png" alt="" data-js="lazy"></i> 
+                                       <i><img src="index.php" data-src="build/ii/97888313402be0bed3052166b06e0ed9a043914d.png" alt="" data-js="lazy"></i>
                                        <div>Корея (Osstem)</div>
                                     </div>
                                     <div class="variants__about__brand">
-                                       <i><img src="index.html" data-src="build/ii/90fb81e0815cb0c9033d4a97cd6fe750355cf691.png" alt="" data-js="lazy"></i> 
+                                       <i><img src="index.php" data-src="build/ii/90fb81e0815cb0c9033d4a97cd6fe750355cf691.png" alt="" data-js="lazy"></i>
                                        <div>США (Hiossen )</div>
                                     </div>
                                     <div class="variants__about__brand">
-                                       <i><img src="index.html" data-src="build/ii/3364d1967dfedfab4acc8f01090e460706255c6a.png" alt="" data-js="lazy"></i> 
+                                       <i><img src="index.php" data-src="build/ii/3364d1967dfedfab4acc8f01090e460706255c6a.png" alt="" data-js="lazy"></i>
                                        <div>Швейцария <br>(Nobel)</div>
                                     </div>
                                     <div class="variants__about__brand">
-                                       <i><img src="index.html" data-src="build/ii/3aa96f4788f759ca9193cc2693ee3d407914bc5e.png" alt="" data-js="lazy"></i> 
+                                       <i><img src="index.php" data-src="build/ii/3aa96f4788f759ca9193cc2693ee3d407914bc5e.png" alt="" data-js="lazy"></i>
                                        <div>Германия (Ankylos)</div>
                                     </div>
                                  </div>
@@ -1297,15 +1285,15 @@
                                  <div class="variants__about__text"> Ваши коронки изготовят на <b>высокоточном цифровом оборудовании</b> </div>
                                  <div class="variants__about__crowns">
                                     <div>
-                                       <i><img src="index.html" data-src="build/ii/b1e04eb6b7807e5d6fb44f401e97f7687310d59d.png" alt="" data-js="lazy"></i> 
+                                       <i><img src="index.php" data-src="build/ii/b1e04eb6b7807e5d6fb44f401e97f7687310d59d.png" alt="" data-js="lazy"></i>
                                        <div> Металло-<br> керамика </div>
                                     </div>
                                     <div>
-                                       <i><img src="index.html" data-src="build/ii/ef0148103ecdf15e83e32fdafc5347add895dd5a.png" alt="" data-js="lazy"></i> 
+                                       <i><img src="index.php" data-src="build/ii/ef0148103ecdf15e83e32fdafc5347add895dd5a.png" alt="" data-js="lazy"></i>
                                        <div> Диоксид <br> циркония </div>
                                     </div>
                                     <div>
-                                       <i><img src="index.html" data-src="build/ii/ba3363b9890598a83c09b4466893dcad972d387b.png" alt="" data-js="lazy"></i> 
+                                       <i><img src="index.php" data-src="build/ii/ba3363b9890598a83c09b4466893dcad972d387b.png" alt="" data-js="lazy"></i>
                                        <div> Керамика <br> Emax </div>
                                     </div>
                                  </div>
@@ -1334,7 +1322,7 @@
                            <div class="one-visit__item__title">Хирургический</div>
                            <div class="one-visit__item__text">Хирург-имплантолог устанавливает имплант</div>
                            <div class="one-visit__employee">
-                              <div class="one-visit__employee__images"> <i class="icon"> <img src="index.html" data-src="build/ii/ffda6b4a587acaa4d946d51dc0065ae3939e2938.png" alt="" data-js="lazy"> </i> <i class="image"> <img src="index.html" data-src="build/ii/cedbb76feede226d306c1861e6b11acb393aad65.png" alt="" data-js="lazy"> </i> </div>
+                              <div class="one-visit__employee__images"> <i class="icon"> <img src="index.php" data-src="build/ii/ffda6b4a587acaa4d946d51dc0065ae3939e2938.png" alt="" data-js="lazy"> </i> <i class="image"> <img src="index.php" data-src="build/ii/cedbb76feede226d306c1861e6b11acb393aad65.png" alt="" data-js="lazy"> </i> </div>
                               <div class="one-visit__employee__fio">Ковалев Александр</div>
                               <div class="one-visit__employee__profession"> Хирург-имплантолог, стоматолог <span>со стажем 17&nbsp;лет</span> </div>
                            </div>
@@ -1354,7 +1342,7 @@
                            <div class="one-visit__item__title">Ортопедический</div>
                            <div class="one-visit__item__text">Стоматолог-ортопед устанавливает коронку</div>
                            <div class="one-visit__employee">
-                              <div class="one-visit__employee__images"> <i class="icon"> <img src="index.html" data-src="build/ii/173ed417cb9b2ab571709e327aef21fa229d6f62.png" alt="" data-js="lazy"> </i> <i class="image image_small"> <img src="index.html" data-src="build/ii/70cd602be6b2f5efea346ef940b0c2c262203de4.png" alt="" data-js="lazy"> </i> </div>
+                              <div class="one-visit__employee__images"> <i class="icon"> <img src="index.php" data-src="build/ii/173ed417cb9b2ab571709e327aef21fa229d6f62.png" alt="" data-js="lazy"> </i> <i class="image image_small"> <img src="index.php" data-src="build/ii/70cd602be6b2f5efea346ef940b0c2c262203de4.png" alt="" data-js="lazy"> </i> </div>
                               <div class="one-visit__employee__fio">Мамонтова Екатерина</div>
                               <div class="one-visit__employee__profession"> Врач стоматолог, ортопед <span>со стажем 11&nbsp;лет</span> </div>
                            </div>
@@ -1378,7 +1366,7 @@
                <div class="stages__grid">
                   <div>
                      <div class="stage__item">
-                        <i> <img src="index.html" data-src="build/ii/75dd9c20d0e8699abb70fcf33546dc8588ab1483.png" alt="" data-js="lazy"> </i> 
+                        <i> <img src="index.php" data-src="build/ii/75dd9c20d0e8699abb70fcf33546dc8588ab1483.png" alt="" data-js="lazy"> </i>
                         <div class="stage__item__content">
                            <div class="stage__item__title"><b>Диагностика</b> перед операцией</div>
                            <div class="stage__item__text">Перед имплантацией нужно сделать КТ, составить план лечения и снять слепки зубов.</div>
@@ -1388,7 +1376,7 @@
                   </div>
                   <div>
                      <div class="stage__item">
-                        <i> <img src="index.html" data-src="build/ii/8bd27dbb12d7148e813199de9798b1ffdabc3335.png" alt="" data-js="lazy"> </i> 
+                        <i> <img src="index.php" data-src="build/ii/8bd27dbb12d7148e813199de9798b1ffdabc3335.png" alt="" data-js="lazy"> </i>
                         <div class="stage__item__content">
                            <div class="stage__item__title"><b>Лечение кариеса и воспалений</b></div>
                            <div class="stage__item__text">Кариес и воспаления могут нарушить приживление имплантов, поэтому нужно заранее их вылечить.</div>
@@ -1398,7 +1386,7 @@
                   </div>
                   <div>
                      <div class="stage__item">
-                        <i> <img src="index.html" data-src="build/ii/0280296cde7adb85a7a8efe6abc3288162413b19.png" alt="" data-js="lazy"> </i> 
+                        <i> <img src="index.php" data-src="build/ii/0280296cde7adb85a7a8efe6abc3288162413b19.png" alt="" data-js="lazy"> </i>
                         <div class="stage__item__content">
                            <div class="stage__item__title"><b>Костная пластика</b> и&nbsp;синус-лифтинг</div>
                            <div class="stage__item__text">Бывает, что костной ткани недостаточно для установки импланта. Тогда её нужно наращивать.</div>
@@ -1408,7 +1396,7 @@
                   </div>
                   <div>
                      <div class="stage__item">
-                        <i> <img src="index.html" data-src="build/ii/f661d3c84abcdd5d2ed5c6d29b786c1f729c2fc7.png" alt="" data-js="lazy"> </i> 
+                        <i> <img src="index.php" data-src="build/ii/f661d3c84abcdd5d2ed5c6d29b786c1f729c2fc7.png" alt="" data-js="lazy"> </i>
                         <div class="stage__item__content">
                            <div class="stage__item__title"><b>Установка постоянного протеза</b></div>
                            <div class="stage__item__text">Мы устанавливаем временную коронку или протез в день операции, а постоянный через 6 месяцев.</div>
@@ -1432,7 +1420,7 @@
                <div class="free-diagnostics__grid">
                   <div>
                      <div class="free-diagnostics__item">
-                        <i> <img src="index.html" data-src="build/ii/ceb3f273c6d16c0d181297a0520dd89b22368c07.jpg" alt="" data-js="lazy"> </i> 
+                        <i> <img src="index.php" data-src="build/ii/ceb3f273c6d16c0d181297a0520dd89b22368c07.jpg" alt="" data-js="lazy"> </i>
                         <div class="free-diagnostics__item__text">
                            <b>Профессиональный осмотр</b> 
                            <nobr>хирурга-имплантолога</nobr>
@@ -1442,13 +1430,13 @@
                   </div>
                   <div>
                      <div class="free-diagnostics__item">
-                        <i> <img src="index.html" data-src="build/ii/17689c9caa7d60b8a441c0e3873dd9df2cf456d1.jpg" alt="" data-js="lazy"> </i> 
+                        <i> <img src="index.php" data-src="build/ii/17689c9caa7d60b8a441c0e3873dd9df2cf456d1.jpg" alt="" data-js="lazy"> </i>
                         <div class="free-diagnostics__item__text"> <b>Объективная цифровая диагностика</b> 3D-сканером и искусственным интеллектом <span style="color: #e71762">по 122 пунктам</span> </div>
                      </div>
                   </div>
                   <div>
                      <div class="free-diagnostics__item">
-                        <i> <img src="index.html" data-src="build/ii/2d633a52d6e037f370b95f38228625ea5a194dcb.jpg" alt="" data-js="lazy"> </i> 
+                        <i> <img src="index.php" data-src="build/ii/2d633a52d6e037f370b95f38228625ea5a194dcb.jpg" alt="" data-js="lazy"> </i>
                         <div class="free-diagnostics__item__text"> <b>Точный пошаговый план лечения</b> под ваш бюджет <span style="color: #e71762">без навязывания лишних услуг</span> </div>
                      </div>
                   </div>
@@ -1461,7 +1449,7 @@
             </div>
          </div>
          <div class="not-hurt" data-js-scroll-target="not-hurt">
-            <div class="not-hurt__images"> <img src="index.html" data-src="build/ii/08d1fece5f60c4c87e98c16591206fc02bb25e66.png" class="not-hurt__image__one" alt="" data-js="lazy"> <img src="index.html" data-src="build/ii/a8bdb0ebb5afc4bed90a13e0d9fd92a6861c2823.png" class="not-hurt__image__two" alt="" data-js="lazy"> </div>
+            <div class="not-hurt__images"> <img src="index.php" data-src="build/ii/08d1fece5f60c4c87e98c16591206fc02bb25e66.png" class="not-hurt__image__one" alt="" data-js="lazy"> <img src="index.php" data-src="build/ii/a8bdb0ebb5afc4bed90a13e0d9fd92a6861c2823.png" class="not-hurt__image__two" alt="" data-js="lazy"> </div>
             <div class="row">
                <h2 class="h2 h2_center"> Имплантация — это правда <span>не больно?</span> </h2>
                <div class="not-hurt__top">
@@ -1470,7 +1458,7 @@
                   </div>
                   <div>
                      <div class="not-hurt__top__euro">
-                        <i> <img src="index.html" data-src="build/ii/f069a6f8c332137d9ffe29757236bc6121460437.png" alt="" data-js="lazy"> </i> 
+                        <i> <img src="index.php" data-src="build/ii/f069a6f8c332137d9ffe29757236bc6121460437.png" alt="" data-js="lazy"> </i>
                         <div> Ваша операция пройдёт под <b>европейской анестезией</b> последнего поколения или мы можем провести её <b><span style="color:
 #e71762;">в седации</span></b> </div>
                      </div>
@@ -1479,7 +1467,7 @@
                <div class="not-hurt__grid">
                   <div>
                      <div class="not-hurt__image-wrapper">
-                        <div class="not-hurt__image"> <img src="index.html" data-src="build/ii/5e4030f4b6e5d11e8a70e3ca3931a595594ef7bf.jpg" alt="" data-js="lazy"> </div>
+                        <div class="not-hurt__image"> <img src="index.php" data-src="build/ii/5e4030f4b6e5d11e8a70e3ca3931a595594ef7bf.jpg" alt="" data-js="lazy"> </div>
                      </div>
                   </div>
                   <div>
@@ -1501,18 +1489,18 @@
                <div class="fake-warranty__text"> Все клиники дают пожизненную гарантию на импланты от производителя, но только потому, что имплант — это <b>титановый штифт</b>, с которым по факту <b><span>ничего не может случиться.</span></b> </div>
                <div class="fake-warranty__note">
                   <div> Вот несколько случаев, с которыми пациенты из других клиник пришли к нам <b>на переделку</b> </div>
-                  <i> <img src="index.html" data-src="build/ii/f70dcc4e66e5666d4b26d0bd5c7dea505554aae8.png" alt="" data-js="lazy"> </i> 
+                  <i> <img src="index.php" data-src="build/ii/f70dcc4e66e5666d4b26d0bd5c7dea505554aae8.png" alt="" data-js="lazy"> </i>
                </div>
                <div class="fake-warranty__grid">
                   <div class="fake-warranty__grid__title">У них всех была пожизненная гарантия на импланты</div>
-                  <div class="fake-warranty__images"> <i> <img src="index.html" data-src="build/ii/a5f71dc5fd97afc8324a7803c45bc10a96fc016d.jpg" alt="" data-js="lazy"> </i> <i> <img src="index.html" data-src="build/ii/dbce771bfff0081923476d96bef3ae8d04733121.jpg" alt="" data-js="lazy"> </i> <i> <img src="index.html" data-src="build/ii/dbe5ce8948a80aa82e0e1aaaf6e5b37dd55ad8b1.jpg" alt="" data-js="lazy"> </i> <i> <img src="index.html" data-src="build/ii/d25a138fb34663dbea2882921a272be861e89947.jpg" alt="" data-js="lazy"> </i> <i> <img src="index.html" data-src="build/ii/e3a9a13399010f1a9a3ff147185bd24aa6966628.jpg" alt="" data-js="lazy"> </i> </div>
+                  <div class="fake-warranty__images"> <i> <img src="index.php" data-src="build/ii/a5f71dc5fd97afc8324a7803c45bc10a96fc016d.jpg" alt="" data-js="lazy"> </i> <i> <img src="index.php" data-src="build/ii/dbce771bfff0081923476d96bef3ae8d04733121.jpg" alt="" data-js="lazy"> </i> <i> <img src="index.php" data-src="build/ii/dbe5ce8948a80aa82e0e1aaaf6e5b37dd55ad8b1.jpg" alt="" data-js="lazy"> </i> <i> <img src="index.php" data-src="build/ii/d25a138fb34663dbea2882921a272be861e89947.jpg" alt="" data-js="lazy"> </i> <i> <img src="index.php" data-src="build/ii/e3a9a13399010f1a9a3ff147185bd24aa6966628.jpg" alt="" data-js="lazy"> </i> </div>
                </div>
             </div>
          </div>
          <div class="warranty" data-js-scroll-target="warranty">
-            <div class="warranty__images"> <img src="index.html" data-src="build/ii/46f280d6b4fe6b57b77f946834ce2f9783db5af9.png" alt="" data-js="lazy" class="warranty__image_one"> </div>
+            <div class="warranty__images"> <img src="index.php" data-src="build/ii/46f280d6b4fe6b57b77f946834ce2f9783db5af9.png" alt="" data-js="lazy" class="warranty__image_one"> </div>
             <div class="row">
-               <div class="warranty__image"> <img src="index.html" data-src="build/ii/aff60023fb3f0f768834cdf66d86a0c0d7fd5809.png" alt="" data-js="lazy"> </div>
+               <div class="warranty__image"> <img src="index.php" data-src="build/ii/aff60023fb3f0f768834cdf66d86a0c0d7fd5809.png" alt="" data-js="lazy"> </div>
                <div class="block-header">
                   <div class="pre-header pre-header_second"> Мы даём расширенную гарантию на&nbsp;работу врача </div>
                   <h2 class="h2"> Вы получите именной <b><span>гарантийный сертификат</span></b> </h2>
@@ -1521,7 +1509,7 @@
                <div class="warranty__grid">
                   <div>
                      <div class="warranty__item">
-                        <i> <img src="index.html" data-src="build/ii/c86796cd23765e248e27a9baee4091588121db82.png" alt="" data-js="lazy"> </i> 
+                        <i> <img src="index.php" data-src="build/ii/c86796cd23765e248e27a9baee4091588121db82.png" alt="" data-js="lazy"> </i>
                         <div>
                            <div class="title"> А также гарантию <br> <b>100% <span>приживаемости</span> импланта,</b> </div>
                            <div class="text"> по которой в случае отторжения мы <b>бесплатно</b> проведём имплантацию <b>заново</b>. </div>
@@ -1530,7 +1518,7 @@
                   </div>
                   <div>
                      <div class="warranty__item">
-                        <i> <img src="index.html" data-src="build/ii/36420844d9e1783e5e9beddbdb4902b3a0e0c0bb.png" alt="" data-js="lazy"> </i> 
+                        <i> <img src="index.php" data-src="build/ii/36420844d9e1783e5e9beddbdb4902b3a0e0c0bb.png" alt="" data-js="lazy"> </i>
                         <div>
                            <div class="title"> <b>За 12 лет работы</b> </div>
                            <div class="text"> ни одному пациенту <br> <b><span>не пригодились</span></b> эти гарантии </div>
@@ -1550,14 +1538,14 @@
                      <div class="pre-header">Члены международных сообществ цифровой стоматологии</div>
                   </div>
                   <div class="employees__images">
-                     <div class="flags"> <i><img src="index.html" data-src="build/ii/3d0c0c4db9f5522104daadda124347c00846633c.png" alt="" data-js="lazy"></i> </div>
-                     <div class="awards"> <i><img src="index.html" data-src="build/ii/c02fdd8e22986e1eb5467cc2a3841141cde3e132.png" alt="" data-js="lazy"></i> <i><img src="index.html" data-src="build/ii/5942b022101a816a8772ea0696a6fe2b58ee8a52.png" alt="" data-js="lazy"></i> <i><img src="index.html" data-src="build/ii/c52a5d9568c49d84e91d22d74dc64c9d5d63b944.png" alt="" data-js="lazy"></i> </div>
+                     <div class="flags"> <i><img src="index.php" data-src="build/ii/3d0c0c4db9f5522104daadda124347c00846633c.png" alt="" data-js="lazy"></i> </div>
+                     <div class="awards"> <i><img src="index.php" data-src="build/ii/c02fdd8e22986e1eb5467cc2a3841141cde3e132.png" alt="" data-js="lazy"></i> <i><img src="index.php" data-src="build/ii/5942b022101a816a8772ea0696a6fe2b58ee8a52.png" alt="" data-js="lazy"></i> <i><img src="index.php" data-src="build/ii/c52a5d9568c49d84e91d22d74dc64c9d5d63b944.png" alt="" data-js="lazy"></i> </div>
                   </div>
                   <div class="employees__slider-wrapper" data-js-employees="slider-wrapper">
                      <div class="employees__slider" data-js-employees="slider">
                         <div class="employee">
                            <div class="employee__photo-wrapper">
-                              <div class="employee__photo"> <img src="index.html" data-lazy="build/ii/946a5087f6c8d4369cd14106b1672e54016770f7.png" alt=""> </div>
+                              <div class="employee__photo"> <img src="index.php" data-lazy="build/ii/946a5087f6c8d4369cd14106b1672e54016770f7.png" alt=""> </div>
                               <div class="employee__about">
                                  <div class="experience">Стаж 26&nbsp;лет</div>
                                  <div class="feature"><span>12700+</span> операций</div>
@@ -1573,7 +1561,7 @@
                         </div>
                         <div class="employee">
                            <div class="employee__photo-wrapper">
-                              <div class="employee__photo"> <img src="index.html" data-lazy="build/ii/9a03e77ad3b0e1c2c00e2e3f2bc23d7c748683c0.png" alt=""> </div>
+                              <div class="employee__photo"> <img src="index.php" data-lazy="build/ii/9a03e77ad3b0e1c2c00e2e3f2bc23d7c748683c0.png" alt=""> </div>
                               <div class="employee__about">
                                  <div class="experience">Стаж 13&nbsp;лет</div>
                                  <div class="feature"><span>16300+</span> операций</div>
@@ -1592,7 +1580,7 @@
                         </div>
                         <div class="employee">
                            <div class="employee__photo-wrapper">
-                              <div class="employee__photo"> <img src="index.html" data-lazy="build/ii/4f889450b2ab41f2989cd35aa3e48101a1fab556.png" alt=""> </div>
+                              <div class="employee__photo"> <img src="index.php" data-lazy="build/ii/4f889450b2ab41f2989cd35aa3e48101a1fab556.png" alt=""> </div>
                               <div class="employee__about">
                                  <div class="experience">Стаж 17&nbsp;лет</div>
                                  <div class="feature"><span>4600+</span> операций</div>
@@ -1614,7 +1602,7 @@
                        
                         <div class="employee">
                            <div class="employee__photo-wrapper">
-                              <div class="employee__photo"> <img src="index.html" data-lazy="build/ii/e5d4bdd584f56b491813a8b0fa69a60b8f4dcca5.png" alt=""> </div>
+                              <div class="employee__photo"> <img src="index.php" data-lazy="build/ii/e5d4bdd584f56b491813a8b0fa69a60b8f4dcca5.png" alt=""> </div>
                               <div class="employee__about">
                                  <div class="experience">Стаж 11&nbsp;лет</div>
                                  <div class="feature"><span>5040+ </span> пациентов</div>
@@ -1642,39 +1630,39 @@
                <h2 class="h2 h2_center"> За 12 лет мы уже <span>более 25.000 раз</span> решали проблемы, с которыми вы столкнулись сейчас </h2>
                <div class="problems__grid" data-js-show-more="content" data-show-more-count-mobile="3">
                   <div class="problems__item">
-                     <div class="problems__img"> <i> <img src="index.html" data-src="build/ii/7b82caf48f670a105eed1910a3f9ee785061a4a9.png" alt="" data-js="lazy"> </i> <i> <img src="index.html" data-src="build/ii/01dfb2d46b5f5862ad76249d7dfc790fb845f732.png" alt="" data-js="lazy"> </i> </div>
+                     <div class="problems__img"> <i> <img src="index.php" data-src="build/ii/7b82caf48f670a105eed1910a3f9ee785061a4a9.png" alt="" data-js="lazy"> </i> <i> <img src="index.php" data-src="build/ii/01dfb2d46b5f5862ad76249d7dfc790fb845f732.png" alt="" data-js="lazy"> </i> </div>
                      <div class="problems__text">
                         Восстановление всех зубов сразу <br> по швейцарской технологии 
                      </div>
                   </div>
                   <div class="problems__item">
-                     <div class="problems__img"> <i> <img src="index.html" data-src="build/ii/8aff9c5e1f2ea0e1c6c8d1f7ee6d4935b4c1002e.png" alt="" data-js="lazy"> </i> <i> <img src="index.html" data-src="build/ii/e03996fad530a219a3412956339cafe2041e44a7.png" alt="" data-js="lazy"> </i> </div>
+                     <div class="problems__img"> <i> <img src="index.php" data-src="build/ii/8aff9c5e1f2ea0e1c6c8d1f7ee6d4935b4c1002e.png" alt="" data-js="lazy"> </i> <i> <img src="index.php" data-src="build/ii/e03996fad530a219a3412956339cafe2041e44a7.png" alt="" data-js="lazy"> </i> </div>
                      <div class="problems__text"> <span>Классическая имплантация</span><br> при отсутствии двух зубов </div>
                   </div>
                   <div class="problems__item">
-                     <div class="problems__img"> <i> <img src="index.html" data-src="build/ii/8405c7be7b958017333ec8f9de9868a66d0a6761.png" alt="" data-js="lazy"> </i> <i> <img src="index.html" data-src="build/ii/8d4c0fc2b9b269dede6b1ff12f0b0cd0c0d72c3a.png" alt="" data-js="lazy"> </i> </div>
+                     <div class="problems__img"> <i> <img src="index.php" data-src="build/ii/8405c7be7b958017333ec8f9de9868a66d0a6761.png" alt="" data-js="lazy"> </i> <i> <img src="index.php" data-src="build/ii/8d4c0fc2b9b269dede6b1ff12f0b0cd0c0d72c3a.png" alt="" data-js="lazy"> </i> </div>
                      <div class="problems__text"> Установка <span>мостовидного протеза</span> <br> на верхнюю челюсть </div>
                   </div>
                   <div class="problems__item">
-                     <div class="problems__img"> <i> <img src="index.html" data-src="build/ii/e68ff04f3f9b0e83405d59a0279fc4f0a12d3489.png" alt="" data-js="lazy"> </i> <i> <img src="index.html" data-src="build/ii/7eccdf3e7179f179f220dae7c481e75ac9abcc9e.png" alt="" data-js="lazy"> </i> </div>
+                     <div class="problems__img"> <i> <img src="index.php" data-src="build/ii/e68ff04f3f9b0e83405d59a0279fc4f0a12d3489.png" alt="" data-js="lazy"> </i> <i> <img src="index.php" data-src="build/ii/7eccdf3e7179f179f220dae7c481e75ac9abcc9e.png" alt="" data-js="lazy"> </i> </div>
                      <div class="problems__text"> Восстановление всей верхней челюсти <br> при <span>пародонтозе</span> </div>
                   </div>
                   <div class="problems__item">
-                     <div class="problems__img"> <i> <img src="index.html" data-src="build/ii/dbefb428aa9c73a9a44811d889bd4340cdbc77f5.png" alt="" data-js="lazy"> </i> <i> <img src="index.html" data-src="build/ii/4353fee856e17517bb9165129633037427c9287f.png" alt="" data-js="lazy"> </i> </div>
+                     <div class="problems__img"> <i> <img src="index.php" data-src="build/ii/dbefb428aa9c73a9a44811d889bd4340cdbc77f5.png" alt="" data-js="lazy"> </i> <i> <img src="index.php" data-src="build/ii/4353fee856e17517bb9165129633037427c9287f.png" alt="" data-js="lazy"> </i> </div>
                      <div class="problems__text"> <span>Тотальное протезирование</span> при <br> сильной атрофии костной ткани </div>
                   </div>
                   <div class="problems__item">
-                     <div class="problems__img"> <i> <img src="index.html" data-src="build/ii/d8460425789593f54454f1108585c800801919fd.png" alt="" data-js="lazy"> </i> <i> <img src="index.html" data-src="build/ii/2e616913b76f7ab45a3c3f66de45d2b4799af712.png" alt="" data-js="lazy"> </i> </div>
+                     <div class="problems__img"> <i> <img src="index.php" data-src="build/ii/d8460425789593f54454f1108585c800801919fd.png" alt="" data-js="lazy"> </i> <i> <img src="index.php" data-src="build/ii/2e616913b76f7ab45a3c3f66de45d2b4799af712.png" alt="" data-js="lazy"> </i> </div>
                      <div class="problems__text"> Одномоментная имплантация, сразу <br> после удаления <span>травмированного зуба</span> </div>
                   </div>
                   <div class="problems__item">
-                     <div class="problems__img"> <i> <img src="index.html" data-src="build/ii/044069c74b0ed9f342205b4d768d2841d5272294.png" alt="" data-js="lazy"> </i> <i> <img src="index.html" data-src="build/ii/df0280ee319cc9123dc7411900ae4d4cc14edf0a.png" alt="" data-js="lazy"> </i> </div>
+                     <div class="problems__img"> <i> <img src="index.php" data-src="build/ii/044069c74b0ed9f342205b4d768d2841d5272294.png" alt="" data-js="lazy"> </i> <i> <img src="index.php" data-src="build/ii/df0280ee319cc9123dc7411900ae4d4cc14edf0a.png" alt="" data-js="lazy"> </i> </div>
                      <div class="problems__text">
                         Восстановление всех зубов за один <br> <span>день по швейцарской технологии</span>
                      </div>
                   </div>
                   <div class="problems__item">
-                     <div class="problems__img"> <i> <img src="index.html" data-src="build/ii/838d6816bcd7e2664acfa3b5c933a2e992567255.png" alt="" data-js="lazy"> </i> <i> <img src="index.html" data-src="build/ii/b7480bb41cce5a6e7f91c463d18de6bb861aeedc.png" alt="" data-js="lazy"> </i> </div>
+                     <div class="problems__img"> <i> <img src="index.php" data-src="build/ii/838d6816bcd7e2664acfa3b5c933a2e992567255.png" alt="" data-js="lazy"> </i> <i> <img src="index.php" data-src="build/ii/b7480bb41cce5a6e7f91c463d18de6bb861aeedc.png" alt="" data-js="lazy"> </i> </div>
                      <div class="problems__text"> Классическая имплантация <br> при отсутствии <span>одного зуба</span> </div>
                   </div>
                </div>
@@ -1690,29 +1678,29 @@
                   <div class="reviews__rating">
                      <i class="reviews__rating-logo"></i> 
                      <div class="reviews__rating-count">4,8/5</div>
-                     <div class="reviews__rating-stars"> <i> <img src="index.html" data-src="build/ii/61fbbcb2c9cf23be7608b8c65dfa447c7486c1d5.svg" alt="" data-js="lazy"> </i> <i> <img src="index.html" data-src="build/ii/61fbbcb2c9cf23be7608b8c65dfa447c7486c1d5.svg" alt="" data-js="lazy"> </i> <i> <img src="index.html" data-src="build/ii/61fbbcb2c9cf23be7608b8c65dfa447c7486c1d5.svg" alt="" data-js="lazy"> </i> <i> <img src="index.html" data-src="build/ii/61fbbcb2c9cf23be7608b8c65dfa447c7486c1d5.svg" alt="" data-js="lazy"> </i> <i> <img src="index.html" data-src="build/ii/05f30df99fc5804d9d47cec706e522c5e499c083.svg" alt="" data-js="lazy"> </i> </div>
+                     <div class="reviews__rating-stars"> <i> <img src="index.php" data-src="build/ii/61fbbcb2c9cf23be7608b8c65dfa447c7486c1d5.svg" alt="" data-js="lazy"> </i> <i> <img src="index.php" data-src="build/ii/61fbbcb2c9cf23be7608b8c65dfa447c7486c1d5.svg" alt="" data-js="lazy"> </i> <i> <img src="index.php" data-src="build/ii/61fbbcb2c9cf23be7608b8c65dfa447c7486c1d5.svg" alt="" data-js="lazy"> </i> <i> <img src="index.php" data-src="build/ii/61fbbcb2c9cf23be7608b8c65dfa447c7486c1d5.svg" alt="" data-js="lazy"> </i> <i> <img src="index.php" data-src="build/ii/05f30df99fc5804d9d47cec706e522c5e499c083.svg" alt="" data-js="lazy"> </i> </div>
                      <div class="reviews__rating-text">Средняя оценка пациентов</div>
                   </div>
                </div>
                <div class="reviews__small_slider-wrapper">
                   <div class="reviews__small_slider" data-js-reviews="slider-thumbnails">
                      <div>
-                        <div class="reviews__small_slider-item"> <img src="index.html" data-lazy="build/ii/5e6341d69a674b2f18d4179cfe21f49f3331487b.png" alt=""> </div>
+                        <div class="reviews__small_slider-item"> <img src="index.php" data-lazy="build/ii/5e6341d69a674b2f18d4179cfe21f49f3331487b.png" alt=""> </div>
                      </div>
                      <div>
-                        <div class="reviews__small_slider-item"> <img src="index.html" data-lazy="build/ii/943d9892ffba1f2f6a0daf17bad00f7d6bedecbb.png" alt=""> </div>
+                        <div class="reviews__small_slider-item"> <img src="index.php" data-lazy="build/ii/943d9892ffba1f2f6a0daf17bad00f7d6bedecbb.png" alt=""> </div>
                      </div>
                      <div>
-                        <div class="reviews__small_slider-item"> <img src="index.html" data-lazy="build/ii/7053f5bcc26a56a27f011355dbbe5e805e568f51.png" alt=""> </div>
+                        <div class="reviews__small_slider-item"> <img src="index.php" data-lazy="build/ii/7053f5bcc26a56a27f011355dbbe5e805e568f51.png" alt=""> </div>
                      </div>
                      <div>
-                        <div class="reviews__small_slider-item"> <img src="index.html" data-lazy="build/ii/819cb463007df647ad23ddbb2e08b86a08e8047e.png" alt=""> </div>
+                        <div class="reviews__small_slider-item"> <img src="index.php" data-lazy="build/ii/819cb463007df647ad23ddbb2e08b86a08e8047e.png" alt=""> </div>
                      </div>
                      <div>
-                        <div class="reviews__small_slider-item"> <img src="index.html" data-lazy="build/ii/5e717dc09610a2e8e9fb33a64a8c95cea667d479.png" alt=""> </div>
+                        <div class="reviews__small_slider-item"> <img src="index.php" data-lazy="build/ii/5e717dc09610a2e8e9fb33a64a8c95cea667d479.png" alt=""> </div>
                      </div>
                      <div>
-                        <div class="reviews__small_slider-item"> <img src="index.html" data-lazy="build/ii/9b2bd64f0f7fb87383ef8e0125438c75fd2a5022.png" alt=""> </div>
+                        <div class="reviews__small_slider-item"> <img src="index.php" data-lazy="build/ii/9b2bd64f0f7fb87383ef8e0125438c75fd2a5022.png" alt=""> </div>
                      </div>
                   </div>
                   <div class="reviews__slider-navigation" data-js-reviews="slider-navigation"></div>
@@ -1720,14 +1708,14 @@
             </div>
             <div class="reviews__video">
                <div class="row">
-                  <i> <img src="index.html" data-src="build/ii/000df1fef585f4eafd02fcc614536e55fe1afe65.png" alt="" data-js="lazy"> </i> 
+                  <i> <img src="index.php" data-src="build/ii/000df1fef585f4eafd02fcc614536e55fe1afe65.png" alt="" data-js="lazy"> </i>
                   <div class="reviews__slider-wrapper">
                      <div class="reviews__slider" data-js-reviews="slider">
                         <div>
                            <div class="reviews__slider-item">
                               <div>
                                  <div class="reviews__slider_image-wrapper">
-                                    <div class="reviews__slider_image"> <img src="index.html" data-src="build/ii/b6fd07b91de894cc814b3cea77c0149f17706342.jpg" alt="" data-js="lazy"> </div>
+                                    <div class="reviews__slider_image"> <img src="index.php" data-src="build/ii/b6fd07b91de894cc814b3cea77c0149f17706342.jpg" alt="" data-js="lazy"> </div>
                                  </div>
                               </div>
                               <div>
@@ -1746,7 +1734,7 @@
                            <div class="reviews__slider-item">
                               <div>
                                  <div class="reviews__slider_image-wrapper">
-                                    <div class="reviews__slider_image"> <img src="index.html" data-src="build/ii/f25ccfcbe52d4cbd0326ec765cc9a6bdb11f0ec0.jpg" alt="" data-js="lazy"> </div>
+                                    <div class="reviews__slider_image"> <img src="index.php" data-src="build/ii/f25ccfcbe52d4cbd0326ec765cc9a6bdb11f0ec0.jpg" alt="" data-js="lazy"> </div>
                                  </div>
                               </div>
                               <div>
@@ -1765,7 +1753,7 @@
                            <div class="reviews__slider-item">
                               <div>
                                  <div class="reviews__slider_image-wrapper">
-                                    <div class="reviews__slider_image"> <img src="index.html" data-src="build/ii/44c61cf721be190b33b6380cb8b46de7a3f6c6c6.jpg" alt="" data-js="lazy"> </div>
+                                    <div class="reviews__slider_image"> <img src="index.php" data-src="build/ii/44c61cf721be190b33b6380cb8b46de7a3f6c6c6.jpg" alt="" data-js="lazy"> </div>
                                  </div>
                               </div>
                               <div>
@@ -1781,7 +1769,7 @@
                            <div class="reviews__slider-item">
                               <div>
                                  <div class="reviews__slider_image-wrapper">
-                                    <div class="reviews__slider_image"> <img src="index.html" data-src="build/ii/a7274ab62faa62b5a3286e0095bd2a07e8abe799.jpg" alt="" data-js="lazy"> </div>
+                                    <div class="reviews__slider_image"> <img src="index.php" data-src="build/ii/a7274ab62faa62b5a3286e0095bd2a07e8abe799.jpg" alt="" data-js="lazy"> </div>
                                  </div>
                               </div>
                               <div>
@@ -1797,7 +1785,7 @@
                            <div class="reviews__slider-item">
                               <div>
                                  <div class="reviews__slider_image-wrapper">
-                                    <div class="reviews__slider_image"> <img src="index.html" data-src="build/ii/12d8cc109c7d858aa171fc5e0a1b47728509eb4e.jpg" alt="" data-js="lazy"> </div>
+                                    <div class="reviews__slider_image"> <img src="index.php" data-src="build/ii/12d8cc109c7d858aa171fc5e0a1b47728509eb4e.jpg" alt="" data-js="lazy"> </div>
                                  </div>
                               </div>
                               <div>
@@ -1816,7 +1804,7 @@
                            <div class="reviews__slider-item">
                               <div>
                                  <div class="reviews__slider_image-wrapper">
-                                    <div class="reviews__slider_image"> <img src="index.html" data-src="build/ii/846d4d09def6efd78ee698f31053ffe7f8ee4a92.jpg" alt="" data-js="lazy"> </div>
+                                    <div class="reviews__slider_image"> <img src="index.php" data-src="build/ii/846d4d09def6efd78ee698f31053ffe7f8ee4a92.jpg" alt="" data-js="lazy"> </div>
                                  </div>
                               </div>
                               <div>
@@ -1840,8 +1828,8 @@
             <div class="row">
                <h2 class="h2 h2_center"> Больше не нужно искать и сравнивать, вы уже <b>нашли лучшее решение</b> </h2>
                <div class="gallery__text"> Специализированный центр имплантации и протезирования <br> с ведущими врачами России и передовым оснащением </div>
-               <div class="gallery__image"> <i><img src="index.html" data-src="build/ii/8573354d7b81c24a721d1402665265f1ea67552d.png" alt="" data-js="lazy"></i> </div>
-               <div class="gallery__grid" data-js="image-popup-gallery"> <a class="gallery__grid-1" href="javascript:void(0);" data-js="image-popup" data-src="build/ii/a6820d3879b8fa93bdc35196d4c2a1d54fbc0ba5.png"> <img src="index.html" data-src="build/ii/a6820d3879b8fa93bdc35196d4c2a1d54fbc0ba5.png" alt="" data-js="lazy"> </a> <a class="gallery__grid-2" href="javascript:void(0);" data-js="image-popup" data-src="build/ii/2f0d24311db3b50e38c6ea0f7ea4add6a616d141.png"> <img src="index.html" data-src="build/ii/2f0d24311db3b50e38c6ea0f7ea4add6a616d141.png" alt="" data-js="lazy"> </a> <a class="gallery__grid-3" href="javascript:void(0);" data-js="image-popup" data-src="build/ii/254cbdc928d5ed5c6cd9ba7a6d01a472d60bb393.png"> <img src="index.html" data-src="build/ii/254cbdc928d5ed5c6cd9ba7a6d01a472d60bb393.png" alt="" data-js="lazy"> </a> <a class="gallery__grid-4" href="javascript:void(0);" data-js="image-popup" data-src="build/ii/1ba432b1e678f40778e4d6585e0c7215fe6c22a3.png"> <img src="index.html" data-src="build/ii/1ba432b1e678f40778e4d6585e0c7215fe6c22a3.png" alt="" data-js="lazy"> </a> <a class="gallery__grid-5" href="javascript:void(0);" data-js="image-popup" data-src="build/ii/f616b9b61e9420ec4670f81936315e8703dc0f19.png"> <img src="index.html" data-src="build/ii/f616b9b61e9420ec4670f81936315e8703dc0f19.png" alt="" data-js="lazy"> </a> <a class="gallery__grid-6" href="javascript:void(0);" data-js="image-popup" data-src="build/ii/584af8564db051d7364f358db1b9be6a3160212a.png"> <img src="index.html" data-src="build/ii/584af8564db051d7364f358db1b9be6a3160212a.png" alt="" data-js="lazy"> </a> </div>
+               <div class="gallery__image"> <i><img src="index.php" data-src="build/ii/8573354d7b81c24a721d1402665265f1ea67552d.png" alt="" data-js="lazy"></i> </div>
+               <div class="gallery__grid" data-js="image-popup-gallery"> <a class="gallery__grid-1" href="javascript:void(0);" data-js="image-popup" data-src="build/ii/a6820d3879b8fa93bdc35196d4c2a1d54fbc0ba5.png"> <img src="index.php" data-src="build/ii/a6820d3879b8fa93bdc35196d4c2a1d54fbc0ba5.png" alt="" data-js="lazy"> </a> <a class="gallery__grid-2" href="javascript:void(0);" data-js="image-popup" data-src="build/ii/2f0d24311db3b50e38c6ea0f7ea4add6a616d141.png"> <img src="index.php" data-src="build/ii/2f0d24311db3b50e38c6ea0f7ea4add6a616d141.png" alt="" data-js="lazy"> </a> <a class="gallery__grid-3" href="javascript:void(0);" data-js="image-popup" data-src="build/ii/254cbdc928d5ed5c6cd9ba7a6d01a472d60bb393.png"> <img src="index.php" data-src="build/ii/254cbdc928d5ed5c6cd9ba7a6d01a472d60bb393.png" alt="" data-js="lazy"> </a> <a class="gallery__grid-4" href="javascript:void(0);" data-js="image-popup" data-src="build/ii/1ba432b1e678f40778e4d6585e0c7215fe6c22a3.png"> <img src="index.php" data-src="build/ii/1ba432b1e678f40778e4d6585e0c7215fe6c22a3.png" alt="" data-js="lazy"> </a> <a class="gallery__grid-5" href="javascript:void(0);" data-js="image-popup" data-src="build/ii/f616b9b61e9420ec4670f81936315e8703dc0f19.png"> <img src="index.php" data-src="build/ii/f616b9b61e9420ec4670f81936315e8703dc0f19.png" alt="" data-js="lazy"> </a> <a class="gallery__grid-6" href="javascript:void(0);" data-js="image-popup" data-src="build/ii/584af8564db051d7364f358db1b9be6a3160212a.png"> <img src="index.php" data-src="build/ii/584af8564db051d7364f358db1b9be6a3160212a.png" alt="" data-js="lazy"> </a> </div>
             </div>
          </div>
          <div class="world" data-js-scroll-target="world">
@@ -1852,14 +1840,14 @@
                   <div class="world__banner-text"> <span>5 618</span> пациентов в 2022 году </div>
                </div>
                <div class="world__person">
-                  <div class="world__person_image"> <img src="index.html" data-src="build/ii/f480630908d45f4241b4172bfd2633fd39c4a0a1.png" alt="" data-js="lazy"> </div>
+                  <div class="world__person_image"> <img src="index.php" data-src="build/ii/f480630908d45f4241b4172bfd2633fd39c4a0a1.png" alt="" data-js="lazy"> </div>
                   <div class="world__person-name">Лариса Ивановна</div>
                   <div class="world__person-city">Ханты-Мансийск</div>
                   <div class="world__person-text">Протезирование <span>на 4 имплантах</span></div>
                   <a href="https://www.youtube.com/watch?v=qdh25ZmJY5Y" class="world__person-link" data-js="video-popup"> <span>Смотреть отзыв</span> </a> 
                </div>
             </div>
-            <div class="world__image"> <img src="index.html" data-src="build/ii/d6979b574094c38456d1ea183c97209338cb9fe3.png" alt="" data-js="lazy"> </div>
+            <div class="world__image"> <img src="index.php" data-src="build/ii/d6979b574094c38456d1ea183c97209338cb9fe3.png" alt="" data-js="lazy"> </div>
          </div>
          <div class="tomography" data-js-scroll-target="tomography">
             <div class="row">
@@ -1871,26 +1859,26 @@
                <div class="tomography__grid">
                   <div class="tomography__cases">
                      <div class="tomography__case">
-                        <div class="tomography__case__image"> <img src="index.html" data-src="build/ii/4e04c312cfcfd494f5b60b6a7844fb40ecad5395.png" alt="" data-js="lazy"> </div>
+                        <div class="tomography__case__image"> <img src="index.php" data-src="build/ii/4e04c312cfcfd494f5b60b6a7844fb40ecad5395.png" alt="" data-js="lazy"> </div>
                         <div class="tomography__case__note">
-                           <i> <img src="index.html" data-src="build/ii/43697074aab3c800519a613651ccb5bf5a5d0740.png" alt="" data-js="lazy"> </i> 
+                           <i> <img src="index.php" data-src="build/ii/43697074aab3c800519a613651ccb5bf5a5d0740.png" alt="" data-js="lazy"> </i>
                            <div> Без имплантов </div>
                         </div>
                      </div>
                      <div class="tomography__case">
-                        <div class="tomography__case__image"> <img src="index.html" data-src="build/ii/48a606781e6047c09980687fcb1119972158ba90.png" alt="" data-js="lazy"> </div>
+                        <div class="tomography__case__image"> <img src="index.php" data-src="build/ii/48a606781e6047c09980687fcb1119972158ba90.png" alt="" data-js="lazy"> </div>
                         <div class="tomography__case__note">
-                           <i> <img src="index.html" data-src="build/ii/58a7f0403992392ac6a6c35438ff62f3b19a9a75.png" alt="" data-js="lazy"> </i> 
+                           <i> <img src="index.php" data-src="build/ii/58a7f0403992392ac6a6c35438ff62f3b19a9a75.png" alt="" data-js="lazy"> </i>
                            <div> С имплантами </div>
                         </div>
                      </div>
                   </div>
                   <div class="tomography__text">
-                     <i> <img src="index.html" data-src="build/ii/e167f56b3db117dcc5956aa84b8994f73114e0f6.png" alt="" data-js="lazy"> </i> 
+                     <i> <img src="index.php" data-src="build/ii/e167f56b3db117dcc5956aa84b8994f73114e0f6.png" alt="" data-js="lazy"> </i>
                      <div> Если костной ткани будет недостаточно для установки импланта, придётся её наращивать. <br><br> <span>А это минимум плюс <span class="second_color">60 000&nbsp;₽</span> к&nbsp;стоимости лечения. </span> </div>
                   </div>
                </div>
-               <div class="tomography__image"> <img src="index.html" data-src="build/ii/cdc595edfec8c90e27a2aebff9f2e5453db59ab9.png" alt="" data-js="lazy"> </div>
+               <div class="tomography__image"> <img src="index.php" data-src="build/ii/cdc595edfec8c90e27a2aebff9f2e5453db59ab9.png" alt="" data-js="lazy"> </div>
             </div>
          </div>
          <div class="address__map">
@@ -1928,7 +1916,7 @@
                            <div class="map__contacts__info__work-time"> Работаем <b>с 9:00 до 21:00</b> <br> <span>без обеда и выходных</span> </div>
                         </div>
                      </div>
-                     <div class="map__contacts__image"> <img src="index.html" data-src="build/ii/ee6b84087506bb13b096226224303840cc57ad0d.jpg" alt="" data-js="lazy"> </div>
+                     <div class="map__contacts__image"> <img src="index.php" data-src="build/ii/ee6b84087506bb13b096226224303840cc57ad0d.jpg" alt="" data-js="lazy"> </div>
                   </div>
                </div>
             </div>
@@ -1980,12 +1968,12 @@
                         </div>
                      </div>
                      <div class="footer__licenses-wrapper">
-                        <div class="footer__licenses" data-js="image-popup-gallery"> <a href="javascript:void(0);" data-js="image-popup" data-src="build/ii/lic/1.jpg"> <img src="index.html" data-src="build/ii/lic/1-min.jpg" alt="" data-js="lazy"> </a> <a href="javascript:void(0);" data-js="image-popup" data-src="build/ii/lic/2.jpg"> <img src="index.html" data-src="build/ii/lic/2-min.jpg" alt="" data-js="lazy"> </a> </div>
+                        <div class="footer__licenses" data-js="image-popup-gallery"> <a href="javascript:void(0);" data-js="image-popup" data-src="build/ii/lic/1.jpg"> <img src="index.php" data-src="build/ii/lic/1-min.jpg" alt="" data-js="lazy"> </a> <a href="javascript:void(0);" data-js="image-popup" data-src="build/ii/lic/2.jpg"> <img src="index.php" data-src="build/ii/lic/2-min.jpg" alt="" data-js="lazy"> </a> </div>
                      </div>
                   </div>
               <!--     <div class="footer__payments">
                      <div class="footer__middle__title">Способы оплаты</div>
-                     <div class="footer__payments__grid"> <span> <img src="index.html" data-src="build/ii/7723dcc84ccfca833ae7d905c63ac4595a9f82e3.png" alt="" data-js="lazy"> </span> <span> <img src="index.html" data-src="build/ii/cf92b820044b7b4fba2dc5cd385a85c2a3407f92.png" alt="" data-js="lazy"> </span> <span> <img src="index.html" data-src="build/ii/171a59b058885444535a80ffaca78e30f78c8971.png" alt="" data-js="lazy"> </span> <span> <img src="index.html" data-src="build/ii/abf6b0c5a8773e2abedc44ae6fea7bcfd1729ba6.png" alt="" data-js="lazy"> </span> </div>
+                     <div class="footer__payments__grid"> <span> <img src="index.php" data-src="build/ii/7723dcc84ccfca833ae7d905c63ac4595a9f82e3.png" alt="" data-js="lazy"> </span> <span> <img src="index.php" data-src="build/ii/cf92b820044b7b4fba2dc5cd385a85c2a3407f92.png" alt="" data-js="lazy"> </span> <span> <img src="index.php" data-src="build/ii/171a59b058885444535a80ffaca78e30f78c8971.png" alt="" data-js="lazy"> </span> <span> <img src="index.php" data-src="build/ii/abf6b0c5a8773e2abedc44ae6fea7bcfd1729ba6.png" alt="" data-js="lazy"> </span> </div>
                   </div> -->
                   <div style="display: flex;">
                      <div class="footer__requisites-wrapper">
@@ -2026,7 +2014,7 @@
                   <div class="modal__title h2"><span>Не уходите с&nbsp;пустыми руками</span></div>
                   <div class="modal__text"> Возьмите с собой расчёт стоимости, чтобы было с чем <b>сравнивать</b> </div>
                   <div class="dont-go__gift">
-                     <i><img src="index.html" data-src="build/ii/4cb88a4ee1029e9b2602ac29cce52bfba448b971.png" alt="" data-js="lazy"></i> 
+                     <i><img src="index.php" data-src="build/ii/4cb88a4ee1029e9b2602ac29cce52bfba448b971.png" alt="" data-js="lazy"></i>
                      <div>
                         Пройдите тест до конца <br> и <b>получите подарок</b> стоимостью 
                         <div class="dont-go__gift__price"> 10 000&nbsp;₽ </div>
@@ -2108,8 +2096,14 @@
                 Давайте начнём с <span>бесплатной</span> диагностики
             </div>
     
-            <form action="thanks.html" method="post" class="form form_grid" autocomplete="off">
-       
+            <form action="/postBitrixTelegram.php" method="post" class="form form_grid" autocomplete="off">
+                <input type="hidden" name="utm" value="<?= $_GET["utm_source"] ?? ''?>">
+                <input type="hidden" name="title" value="<?= $_GET["title"] ?? ''?>">
+                <input type="hidden" name="utm_campaign" value="<?= $_GET["utm_campaign"] ?? ''?>">
+                <input type="hidden" name="utm_medium" value="<?= $_GET["utm_medium"] ?? ''?>">
+                <input type="hidden" name="utm_content" value="<?= $_GET["utm_content"] ?? ''?>">
+                <input type="hidden" name="utm_term" value="<?= $_GET["utm_term"] ?? ''?>">
+                <input type="hidden" name="city" value="<?= $_GET["city"] ?? ''?>">
         
         
     <div class="form__group-wrapper">
@@ -2207,8 +2201,14 @@
                 Давайте начнём с <span>бесплатной</span> диагностики
             </div>
     
-            <form action="" method="post" class="form form_grid" autocomplete="off">
-    
+            <form action="/postBitrixTelegram.php" method="post" class="form form_grid" autocomplete="off">
+                <input type="hidden" name="utm" value="<?= $_GET["utm_source"] ?? ''?>">
+                <input type="hidden" name="title" value="<?= $_GET["title"] ?? ''?>">
+                <input type="hidden" name="utm_campaign" value="<?= $_GET["utm_campaign"] ?? ''?>">
+                <input type="hidden" name="utm_medium" value="<?= $_GET["utm_medium"] ?? ''?>">
+                <input type="hidden" name="utm_content" value="<?= $_GET["utm_content"] ?? ''?>">
+                <input type="hidden" name="utm_term" value="<?= $_GET["utm_term"] ?? ''?>">
+                <input type="hidden" name="city" value="<?= $_GET["city"] ?? ''?>">
         
         
     <div class="form__group-wrapper">
@@ -2305,8 +2305,14 @@
                 Давайте начнём с <span>бесплатной</span> диагностики
             </div>
     
-            <form action="" method="post" class="form form_grid" autocomplete="off">
-    
+            <form action="/postBitrixTelegram.php" method="post" class="form form_grid" autocomplete="off">
+                <input type="hidden" name="utm" value="<?= $_GET["utm_source"] ?? ''?>">
+                <input type="hidden" name="title" value="<?= $_GET["title"] ?? ''?>">
+                <input type="hidden" name="utm_campaign" value="<?= $_GET["utm_campaign"] ?? ''?>">
+                <input type="hidden" name="utm_medium" value="<?= $_GET["utm_medium"] ?? ''?>">
+                <input type="hidden" name="utm_content" value="<?= $_GET["utm_content"] ?? ''?>">
+                <input type="hidden" name="utm_term" value="<?= $_GET["utm_term"] ?? ''?>">
+                <input type="hidden" name="city" value="<?= $_GET["city"] ?? ''?>">
         
         
     <div class="form__group-wrapper">
@@ -2403,8 +2409,14 @@
                 Давайте начнём с <span>бесплатной</span> диагностики
             </div>
     
-            <form action="" method="post" class="form form_grid" autocomplete="off">
-    
+            <form action="/postBitrixTelegram.php" method="post" class="form form_grid" autocomplete="off">
+                <input type="hidden" name="utm" value="<?= $_GET["utm_source"] ?? ''?>">
+                <input type="hidden" name="title" value="<?= $_GET["title"] ?? ''?>">
+                <input type="hidden" name="utm_campaign" value="<?= $_GET["utm_campaign"] ?? ''?>">
+                <input type="hidden" name="utm_medium" value="<?= $_GET["utm_medium"] ?? ''?>">
+                <input type="hidden" name="utm_content" value="<?= $_GET["utm_content"] ?? ''?>">
+                <input type="hidden" name="utm_term" value="<?= $_GET["utm_term"] ?? ''?>">
+                <input type="hidden" name="city" value="<?= $_GET["city"] ?? ''?>">
         
         
     <div class="form__group-wrapper">
@@ -2433,9 +2445,15 @@
             <div class="modal__title h2">Оставьте свой <span>номер телефона</span></div>
             <div class="modal__text">И мы перезвоним вам</div>
             <div class="modal__form-wrapper">
-                <form action="" method="post" class="form form_grid" autocomplete="off">
-      
-        
+                <form action="/postBitrixTelegram.php" method="post" class="form form_grid" autocomplete="off">
+
+                    <input type="hidden" name="utm" value="<?= $_GET["utm_source"] ?? ''?>">
+                    <input type="hidden" name="title" value="<?= $_GET["title"] ?? ''?>">
+                    <input type="hidden" name="utm_campaign" value="<?= $_GET["utm_campaign"] ?? ''?>">
+                    <input type="hidden" name="utm_medium" value="<?= $_GET["utm_medium"] ?? ''?>">
+                    <input type="hidden" name="utm_content" value="<?= $_GET["utm_content"] ?? ''?>">
+                    <input type="hidden" name="utm_term" value="<?= $_GET["utm_term"] ?? ''?>">
+                    <input type="hidden" name="city" value="<?= $_GET["city"] ?? ''?>">
         
     <div class="form__group-wrapper">
         <div class="form__group form__group_phone required">
@@ -2500,33 +2518,7 @@
 
          <script src="build/js/cc6e879564f20e65497c.js"></script>
          <script src="build/js/96b6a4bf4e8672da7ea7.js"></script>
-
          <script src="build/js/5597141e7e71acc8a29e.js"></script>
-         <!-- calltouch -->
-         <script>
-            (function(w,d,n,c){w.CalltouchDataObject=n;w[n]=function(){w[n]["callbacks"].push(arguments)};if(!w[n]["callbacks"]){w[n]["callbacks"]=[]}w[n]["loaded"]=false;if(typeof c!=="object"){c=[c]}w[n]["counters"]=c;for(var i=0;i<c.length;i+=1){p(c[i])}function p(cId){var a=d.getElementsByTagName("script")[0],s=d.createElement("script"),i=function(){a.parentNode.insertBefore(s,a)},m=typeof Array.prototype.find === 'function',n=m?"init-min.js":"init.js";s.async=true;s.src="https://mod.calltouch.ru/"+n+"?id="+cId;if(w.opera=="[object Opera]"){d.addEventListener("DOMContentLoaded",i,false)}else{i()}}})(window,document,"ct","hvirv3x5");
-         </script>
-         <!-- calltouch -->
-         <!-- Yandex.Metrika counter -->
-         <script type="text/javascript" >
-            (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-               m[i].l=1*new Date();
-               for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
-               k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-            (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-
-            ym(93877294, "init", {
-               clickmap:true,
-               trackLinks:true,
-               accurateTrackBounce:true,
-               webvisor:true
-            });
-         </script>
-         <noscript><div><img src="https://mc.yandex.ru/watch/93877294" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-         <!-- /Yandex.Metrika counter -->
-
-         <!-- Google tag (gtag.js) -->
-         <script async src="https://www.googletagmanager.com/gtag/js?id=G-B435SVZHSP"></script>
          <script>
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
@@ -2537,7 +2529,7 @@
       <script type="text/javascript">
           jQuery(function ($) {
               $.mask.definitions['~'] = '[9]';
-              $("input[name='phone']").mask("+7 (~99) 999 99 99");
+              $("input[name='phone']").mask("+79999999999");
       
               $('form').each(function (index, obj) {
                   let url = new URL($(obj).prop('action'));
@@ -2547,32 +2539,6 @@
               });
           });
       </script>
-      <!-- calltouch -->
-      <script>
-      (function(w,d,n,c){w.CalltouchDataObject=n;w[n]=function(){w[n]["callbacks"].push(arguments)};if(!w[n]["callbacks"]){w[n]["callbacks"]=[]}w[n]["loaded"]=false;if(typeof c!=="object"){c=[c]}w[n]["counters"]=c;for(var i=0;i<c.length;i+=1){p(c[i])}function p(cId){var a=d.getElementsByTagName("script")[0],s=d.createElement("script"),i=function(){a.parentNode.insertBefore(s,a)},m=typeof Array.prototype.find === 'function',n=m?"init-min.js":"init.js";s.async=true;s.src="https://mod.calltouch.ru/"+n+"?id="+cId;if(w.opera=="[object Opera]"){d.addEventListener("DOMContentLoaded",i,false)}else{i()}}})(window,document,"ct","hvirv3x5");
-      </script>
-      <!-- calltouch -->
-   
-   <!-- Pixel -->
-      <script type="text/javascript">!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src='https://vk.com/js/api/openapi.js?169',t.onload=function(){VK.Retargeting.Init("VK-RTRG-1753191-8DEfh"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script><noscript><img src="https://vk.com/rtrg?p=VK-RTRG-1753191-8DEfh" style="position:fixed; left:-999px;" alt=""/></noscript>
-   <!-- /Pixel -->
-   
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript" >
-   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-   m[i].l=1*new Date();
-   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
-   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
 
-   ym(95046586, "init", {
-        clickmap:true,
-        trackLinks:true,
-        accurateTrackBounce:true,
-        webvisor:true
-   });
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/95046586" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
    </div></body>
 </html>

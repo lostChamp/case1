@@ -15638,13 +15638,13 @@
                     p = t.find('[name="id"]');
                   this.only_calls
                     ? (p.attr("placeholder", "+7 9"),
-                      (u = { mask: "+{7}(900)000-00-00" }))
+                      (u = { mask: "+{7}9999999999" }))
                     : this.country
                     ? "by" === this.country &&
                       (p.attr("placeholder", "+375"),
                       (u = { mask: "+{375}(00)000-00-00" }))
                     : (u = {
-                        mask: "+{7}(000)000-00-00",
+                        mask: "+{7}9999999999",
                         prepare: function prepare(e, t) {
                           return "8" === e && "" === t.value ? "" : e;
                         },
