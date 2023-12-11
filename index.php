@@ -1,3 +1,13 @@
+<?php
+    $utm = $_GET["utm_source"] ?? null;
+    if(!array_key_exists("utm_source", $_COOKIE)) {
+        setcookie("utm_source", $utm, time()+3600);
+    }
+    if(array_key_exists("utm_source", $_COOKIE) && $_COOKIE["utm_source"] !== $utm && !is_null($utm)) {
+        setcookie("utm_source", $utm, time()+3600);
+    }
+?>
+
 <!DOCTYPE html>
 <html lang="ru">
    <head>
@@ -14,7 +24,6 @@
        <script>
            function phoneMask() {
                const inputTel = document.querySelectorAll('input[type=tel]');
-               console.log(inputTel);
                inputTel.forEach(input => {
                    input.addEventListener('input', (e) => {
                        e.preventDefault();
@@ -120,13 +129,13 @@
                         <input type="hidden" name="tags" value="Заявка с квиза" class="input">
                         <input type="hidden" name="subject" value="Пройден тест (квиз)">
                         <input type="hidden" name="form_type" value="quiz">
-                         <input type="hidden" name="utm" value="<?= $_GET["utm_source"] ?? $_COOKIE["utm_source"]?>">
-                         <input type="hidden" name="title" value="<?= $_GET["title"] ?? $_COOKIE["title"]?>">
-                         <input type="hidden" name="utm_campaign" value="<?= $_GET["utm_campaign"] ?? $_COOKIE["utm_campaign"]?>">
-                         <input type="hidden" name="utm_medium" value="<?= $_GET["utm_medium"] ?? $_COOKIE["utm_medium"]?>">
-                         <input type="hidden" name="utm_content" value="<?= $_GET["utm_content"] ?? $_COOKIE["utm_content"]?>">
-                         <input type="hidden" name="utm_term" value="<?= $_GET["utm_term"] ?? $_COOKIE["utm_term"]?>">
-                         <input type="hidden" name="city" value="<?= $_GET["city"] ?? $_COOKIE["city"]?>">
+                         <input type="hidden" name="utm" value="<?= is_null($utm) ? $_COOKIE['utm_source'] : $utm ?>">
+                         <input type="hidden" name="title" value="<?= $_GET["title"] ?? ''?>">
+                         <input type="hidden" name="utm_campaign" value="<?= $_GET["utm_campaign"] ?? ''?>">
+                         <input type="hidden" name="utm_medium" value="<?= $_GET["utm_medium"] ?? ''?>">
+                         <input type="hidden" name="utm_content" value="<?= $_GET["utm_content"] ?? ''?>">
+                         <input type="hidden" name="utm_term" value="<?= $_GET["utm_term"] ?? ''?>">
+                         <input type="hidden" name="city" value="<?= $_GET["city"] ?? ''?>">
                         <div class="m-quiz__grid" data-js-quiz="grid">
                            <div class="m-quiz__first">
                               <h2 class="m-quiz__title">
@@ -1251,13 +1260,13 @@
                         <i class="variants__form__image"> <img src="index.php" data-src="build/ii/8f4a2a754e74b34afeb6e6487f77dedad036804e.png" alt="" data-js="lazy"> </i>
                         <div class="variants__form__title"> Давайте начнём <br> <b>с&nbsp;бесплатной диагностики</b> </div>
                         <form action="/postBitrixTelegram.php" method="post" class="form" autocomplete="off">
-                            <input type="hidden" name="utm" value="<?= $_GET["utm_source"] ?? $_COOKIE["utm_source"]?>">
-                            <input type="hidden" name="title" value="<?= $_GET["title"] ?? $_COOKIE["title"]?>">
-                            <input type="hidden" name="utm_campaign" value="<?= $_GET["utm_campaign"] ?? $_COOKIE["utm_campaign"]?>">
-                            <input type="hidden" name="utm_medium" value="<?= $_GET["utm_medium"] ?? $_COOKIE["utm_medium"]?>">
-                            <input type="hidden" name="utm_content" value="<?= $_GET["utm_content"] ?? $_COOKIE["utm_content"]?>">
-                            <input type="hidden" name="utm_term" value="<?= $_GET["utm_term"] ?? $_COOKIE["utm_term"]?>">
-                            <input type="hidden" name="city" value="<?= $_GET["city"] ?? $_COOKIE["city"]?>">
+                            <input type="hidden" name="utm" value="<?= is_null($utm) ? $_COOKIE['utm_source'] : $utm ?>">
+                            <input type="hidden" name="title" value="<?= $_GET["title"] ?? ''?>">
+                            <input type="hidden" name="utm_campaign" value="<?= $_GET["utm_campaign"] ?? ''?>">
+                            <input type="hidden" name="utm_medium" value="<?= $_GET["utm_medium"] ?? ''?>">
+                            <input type="hidden" name="utm_content" value="<?= $_GET["utm_content"] ?? ''?>">
+                            <input type="hidden" name="utm_term" value="<?= $_GET["utm_term"] ?? ''?>">
+                            <input type="hidden" name="city" value="<?= $_GET["city"] ?? ''?>">
                            <div class="form__group-wrapper">
                               <div class="form__group form__group_phone required"> <input type="text" class="input input_phone" name="phone" required="" placeholder="Ваш номер"> </div>
                               <div class="form__group form__group_button"> <button type="submit" class="btn btn_orange"> <span class="blink"></span> <span class="text">Записаться</span> </button> </div>
@@ -2117,7 +2126,7 @@
             </div>
     
             <form action="/postBitrixTelegram.php" method="post" class="form form_grid" autocomplete="off">
-                <input type="hidden" name="utm" value="<?= $_GET["utm_source"] ?? ''?>">
+                <input type="hidden" name="utm" value="<?= is_null($utm) ? $_COOKIE['utm_source'] : $utm ?>">
                 <input type="hidden" name="title" value="<?= $_GET["title"] ?? ''?>">
                 <input type="hidden" name="utm_campaign" value="<?= $_GET["utm_campaign"] ?? ''?>">
                 <input type="hidden" name="utm_medium" value="<?= $_GET["utm_medium"] ?? ''?>">
@@ -2222,7 +2231,7 @@
             </div>
     
             <form action="/postBitrixTelegram.php" method="post" class="form form_grid" autocomplete="off">
-                <input type="hidden" name="utm" value="<?= $_GET["utm_source"] ?? ''?>">
+                <input type="hidden" name="utm" value="<?= is_null($utm) ? $_COOKIE['utm_source'] : $utm ?>">
                 <input type="hidden" name="title" value="<?= $_GET["title"] ?? ''?>">
                 <input type="hidden" name="utm_campaign" value="<?= $_GET["utm_campaign"] ?? ''?>">
                 <input type="hidden" name="utm_medium" value="<?= $_GET["utm_medium"] ?? ''?>">
@@ -2326,7 +2335,7 @@
             </div>
     
             <form action="/postBitrixTelegram.php" method="post" class="form form_grid" autocomplete="off">
-                <input type="hidden" name="utm" value="<?= $_GET["utm_source"] ?? ''?>">
+                <input type="hidden" name="utm" value="<?= is_null($utm) ? $_COOKIE['utm_source'] : $utm ?>">
                 <input type="hidden" name="title" value="<?= $_GET["title"] ?? ''?>">
                 <input type="hidden" name="utm_campaign" value="<?= $_GET["utm_campaign"] ?? ''?>">
                 <input type="hidden" name="utm_medium" value="<?= $_GET["utm_medium"] ?? ''?>">
@@ -2430,7 +2439,7 @@
             </div>
     
             <form action="/postBitrixTelegram.php" method="post" class="form form_grid" autocomplete="off">
-                <input type="hidden" name="utm" value="<?= $_GET["utm_source"] ?? ''?>">
+                <input type="hidden" name="utm" value="<?= is_null($utm) ? $_COOKIE['utm_source'] : $utm ?>">
                 <input type="hidden" name="title" value="<?= $_GET["title"] ?? ''?>">
                 <input type="hidden" name="utm_campaign" value="<?= $_GET["utm_campaign"] ?? ''?>">
                 <input type="hidden" name="utm_medium" value="<?= $_GET["utm_medium"] ?? ''?>">
@@ -2467,7 +2476,7 @@
             <div class="modal__form-wrapper">
                 <form action="/postBitrixTelegram.php" method="post" class="form form_grid" autocomplete="off">
 
-                    <input type="hidden" name="utm" value="<?= $_GET["utm_source"] ?? ''?>">
+                    <input type="hidden" name="utm" value="<?= is_null($utm) ? $_COOKIE['utm_source'] : $utm ?>">
                     <input type="hidden" name="title" value="<?= $_GET["title"] ?? ''?>">
                     <input type="hidden" name="utm_campaign" value="<?= $_GET["utm_campaign"] ?? ''?>">
                     <input type="hidden" name="utm_medium" value="<?= $_GET["utm_medium"] ?? ''?>">
