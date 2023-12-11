@@ -8017,7 +8017,7 @@
 							"" === e.trim(n.val()) && n.parent().removeClass("focused")
 						}));
 						new i.a({
-							mask: "+7 (h99) 999-99-99",
+							mask: "+79999999999",
 							definitions: {
 								h: {
 									validator: "[0-6-9]",
@@ -11059,75 +11059,6 @@
 						if(t.pop() + "Transition" in e) return !0;
 					return !1
 				}(), t.probablyMobile = t.isAndroid || t.isIOS || /(Opera Mini)|Kindle|webOS|BlackBerry|(Opera Mobi)|(Windows Phone)|IEMobile/i.test(navigator.userAgent), o = e(document), t.popupsCache = {}
-			},
-			open: function(n) {
-				var r;
-				if(!1 === n.isObj) {
-					t.items = n.items.toArray(), t.index = 0;
-					var a, s = n.items;
-					for(r = 0; r < s.length; r++)
-						if((a = s[r]).parsed && (a = a.el[0]), a === n.el[0]) {
-							t.index = r;
-							break
-						}
-				} else t.items = e.isArray(n.items) ? n.items : [n.items], t.index = n.index || 0;
-				if(!t.isOpen) {
-					t.types = [], i = "", n.mainEl && n.mainEl.length ? t.ev = n.mainEl.eq(0) : t.ev = o, n.key ? (t.popupsCache[n.key] || (t.popupsCache[n.key] = {}), t.currTemplate = t.popupsCache[n.key]) : t.currTemplate = {}, t.st = e.extend(!0, {}, e.magnificPopup.defaults, n), t.fixedContentPos = "auto" === t.st.fixedContentPos ? !t.probablyMobile : t.st.fixedContentPos, t.st.modal && (t.st.closeOnContentClick = !1, t.st.closeOnBgClick = !1, t.st.showCloseBtn = !1, t.st.enableEscapeKey = !1), t.bgOverlay || (t.bgOverlay = _getEl("bg").on("click.mfp", (function() {
-						t.close()
-					})), t.wrap = _getEl("wrap").attr("tabindex", -1).on("click.mfp", (function(e) {
-						t._checkIfClose(e.target) && t.close()
-					})), t.container = _getEl("container", t.wrap)), t.contentContainer = _getEl("content"), t.st.preloader && (t.preloader = _getEl("preloader", t.container, t.st.tLoading));
-					var c = e.magnificPopup.modules;
-					for(r = 0; r < c.length; r++) {
-						var u = c[r];
-						u = u.charAt(0).toUpperCase() + u.slice(1), t["init" + u].call(t)
-					}
-					_mfpTrigger("BeforeOpen"), t.st.showCloseBtn && (t.st.closeBtnInside ? (_mfpOn("MarkupParse", (function(e, t, n, o) {
-						n.close_replaceWith = _getCloseBtn(o.type)
-					})), i += " mfp-close-btn-in") : t.wrap.append(_getCloseBtn())), t.st.alignTop && (i += " mfp-align-top"), t.fixedContentPos ? t.wrap.css({
-						overflow: t.st.overflowY,
-						overflowX: "hidden",
-						overflowY: t.st.overflowY
-					}) : t.wrap.css({
-						top: l.scrollTop(),
-						position: "absolute"
-					}), (!1 === t.st.fixedBgPos || "auto" === t.st.fixedBgPos && !t.fixedContentPos) && t.bgOverlay.css({
-						height: o.height(),
-						position: "absolute"
-					}), t.st.enableEscapeKey && o.on("keyup.mfp", (function(e) {
-						27 === e.keyCode && t.close()
-					})), l.on("resize.mfp", (function() {
-						t.updateSize()
-					})), t.st.closeOnContentClick || (i += " mfp-auto-cursor"), i && t.wrap.addClass(i);
-					var p = t.wH = l.height(),
-						f = {};
-					if(t.fixedContentPos && t._hasScrollBar(p)) {
-						var h = t._getScrollbarSize();
-						h && (f.marginRight = h)
-					}
-					t.fixedContentPos && (t.isIE7 ? e("body, html").css("overflow", "hidden") : f.overflow = "hidden");
-					var m = t.st.mainClass;
-					return t.isIE7 && (m += " mfp-ie7"), m && t._addClassToMFP(m), t.updateItemHTML(), _mfpTrigger("BuildControls"), e("html").css(f), t.bgOverlay.add(t.wrap).prependTo(t.st.prependTo || e(document.body)), t._lastFocusedEl = document.activeElement, setTimeout((function() {
-						t.content ? (t._addClassToMFP("mfp-ready"), t._setFocus()) : t.bgOverlay.addClass("mfp-ready"), o.on("focusin.mfp", t._onFocusIn)
-					}), 16), t.isOpen = !0, t.updateSize(p), _mfpTrigger("Open"), n
-				}
-				t.updateItemHTML()
-			},
-			close: function() {
-				t.isOpen && (_mfpTrigger("BeforeClose"), t.isOpen = !1, t.st.removalDelay && !t.isLowIE && t.supportsTransition ? (t._addClassToMFP("mfp-removing"), setTimeout((function() {
-					t._close()
-				}), t.st.removalDelay)) : t._close())
-			},
-			_close: function() {
-				_mfpTrigger("Close");
-				var n = "mfp-removing mfp-ready ";
-				if(t.bgOverlay.detach(), t.wrap.detach(), t.container.empty(), t.st.mainClass && (n += t.st.mainClass + " "), t._removeClassFromMFP(n), t.fixedContentPos) {
-					var r = {
-						marginRight: ""
-					};
-					t.isIE7 ? e("body, html").css("overflow", "") : r.overflow = "", e("html").css(r)
-				}
-				o.off("keyup.mfp focusin.mfp"), t.ev.off(".mfp"), t.wrap.attr("class", "mfp-wrap").removeAttr("style"), t.bgOverlay.attr("class", "mfp-bg"), t.container.attr("class", "mfp-container"), !t.st.showCloseBtn || t.st.closeBtnInside && !0 !== t.currTemplate[t.currItem.type] || t.currTemplate.closeBtn && t.currTemplate.closeBtn.detach(), t.st.autoFocusLast && t._lastFocusedEl && e(t._lastFocusedEl).focus(), t.currItem = null, t.content = null, t.currTemplate = null, t.prevHeight = 0, _mfpTrigger("AfterClose")
 			},
 			updateSize: function(e) {
 				if(t.isIOS) {

@@ -1919,7 +1919,7 @@ p.strong {
 .mfp-close-btn-in .mfp-close {
 	right: 35px;
 	top: 20px;
-	background-color: #48b39f;
+	background-color: #e71762;
 	color: transparent
 }
 
@@ -12428,7 +12428,7 @@ textarea+label {
 }
 
 .map-affiliates {
-	margin-top: 0;
+	margin-top: 80px;
 }
 
 .map-affiliates__grid {
@@ -13278,7 +13278,7 @@ textarea+label {
 }
 
 .modal__title>span {
-	color: #48b39f
+	color: #e71762
 }
 
 .modal__text .list {

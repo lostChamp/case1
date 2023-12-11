@@ -1,4 +1,4 @@
-<!DOCTYPE html> 
+<!DOCTYPE html>
 <html lang="ru">
    <head>
       <meta charset="UTF-8">
@@ -11,6 +11,24 @@
       <meta property="og:description" content="Имплантация и протезирование зубов по выгодным ценам. Звоните и записывайтесь на бесплатную консультацию!">
       <meta name="description" content="Имплантация и протезирование зубов по выгодным ценам. Звоните и записывайтесь на бесплатную консультацию!">
       <link rel="stylesheet" href="build/css/7017ad898dff2b9013b3.css">
+       <script>
+           function phoneMask() {
+               const inputTel = document.querySelectorAll('input[type=tel]');
+               console.log(inputTel);
+               inputTel.forEach(input => {
+                   input.addEventListener('input', (e) => {
+                       e.preventDefault();
+                       if (input.value.length <= 2)
+                           input.value = (e.data != null) ? "+7" + e.data : "+7";
+                       if (e.data != null)
+                           if (e.data.match(/[0-9+-]/) == null || input.value.length > 12)
+                               input.value = input.value.substring(0, input.value.length - 1);
+                   });
+               });
+           }
+
+           document.addEventListener('DOMContentLoaded', phoneMask);
+       </script>
    </head>
    <body>
       <div class="content ">
@@ -102,13 +120,13 @@
                         <input type="hidden" name="tags" value="Заявка с квиза" class="input">
                         <input type="hidden" name="subject" value="Пройден тест (квиз)">
                         <input type="hidden" name="form_type" value="quiz">
-                         <input type="hidden" name="utm" value="<?= $_GET["utm_source"] ?? ''?>">
-                         <input type="hidden" name="title" value="<?= $_GET["title"] ?? ''?>">
-                         <input type="hidden" name="utm_campaign" value="<?= $_GET["utm_campaign"] ?? ''?>">
-                         <input type="hidden" name="utm_medium" value="<?= $_GET["utm_medium"] ?? ''?>">
-                         <input type="hidden" name="utm_content" value="<?= $_GET["utm_content"] ?? ''?>">
-                         <input type="hidden" name="utm_term" value="<?= $_GET["utm_term"] ?? ''?>">
-                         <input type="hidden" name="city" value="<?= $_GET["city"] ?? ''?>">
+                         <input type="hidden" name="utm" value="<?= $_GET["utm_source"] ?? $_COOKIE["utm_source"]?>">
+                         <input type="hidden" name="title" value="<?= $_GET["title"] ?? $_COOKIE["title"]?>">
+                         <input type="hidden" name="utm_campaign" value="<?= $_GET["utm_campaign"] ?? $_COOKIE["utm_campaign"]?>">
+                         <input type="hidden" name="utm_medium" value="<?= $_GET["utm_medium"] ?? $_COOKIE["utm_medium"]?>">
+                         <input type="hidden" name="utm_content" value="<?= $_GET["utm_content"] ?? $_COOKIE["utm_content"]?>">
+                         <input type="hidden" name="utm_term" value="<?= $_GET["utm_term"] ?? $_COOKIE["utm_term"]?>">
+                         <input type="hidden" name="city" value="<?= $_GET["city"] ?? $_COOKIE["city"]?>">
                         <div class="m-quiz__grid" data-js-quiz="grid">
                            <div class="m-quiz__first">
                               <h2 class="m-quiz__title">
@@ -462,7 +480,7 @@
                            <div class="image">
                               <img src="" data-src="/build/ii/9bbb89c1f870f94aba07559512664ce75d20ba9b.webp" alt="" data-js="lazy">
                            </div>
-                           <a href="javascript:void(0);" class="btn btn_orange take__price" data-js="popup" data-js-popup="modal-order-call" data-js-cbs=""> <span class="blink"></span> <span class="text"> Узанть <br> стоимость </span> </a>
+                            <a href="javascript:void(0);" class="btn btn_orange take__price" data-js-scroll-to="variants"> <span class="blink"></span> <span class="text"> Узанть <br> стоимость </span> </a>
 
                            <div class="name">
                               <span>Базальный имплант</span>
@@ -478,8 +496,8 @@
                            <div class="image">
                               <img src="" data-src="/build/ii/3b510c3abc07a00932e30feda2508f358d3b8b34.webp" alt="" data-js="lazy">
                            </div>
-                           <a href="javascript:void(0);" class="btn btn_orange take__price" data-js="popup" data-js-popup="modal-order-call" data-js-cbs=""> <span class="blink"></span> <span class="text"> Узанть <br> стоимость </span> </a>
-                           <div class="name">
+                            <a href="javascript:void(0);" class="btn btn_orange take__price" data-js-scroll-to="variants"> <span class="blink"></span> <span class="text"> Узанть <br> стоимость </span> </a>
+                            <div class="name">
                               <span>Кнопочный протез на&nbsp;имплантах</span>
                            </div>
                            <div class="small_text">
@@ -493,8 +511,7 @@
                            <div class="image">
                               <img src="" data-src="/build/ii/1a7a195889398d88a1afc9fccf12313ca0bbbfab.webp" alt="" data-js="lazy">
                            </div>
-                           <a href="javascript:void(0);" class="btn btn_orange take__price" data-js="popup" data-js-popup="modal-order-call" data-js-cbs=""> <span class="blink"></span> <span class="text"> Узанть <br> стоимость </span> </a>
-
+                            <a href="javascript:void(0);" class="btn btn_orange take__price" data-js-scroll-to="variants"> <span class="blink"></span> <span class="text"> Узанть <br> стоимость </span> </a>
                            <div class="name">
                               <span>Протез на&nbsp;балке</span>
                            </div>
@@ -509,8 +526,7 @@
                            <div class="image">
                               <img src="" data-src="/build/ii/fb2b2fd97e8ede53afebdbb6bcbbdfa6e8a3c61a.webp" alt="" data-js="lazy">
                            </div>
-                           <a href="javascript:void(0);" class="btn btn_orange take__price" data-js="popup" data-js-popup="modal-order-call" data-js-cbs=""> <span class="blink"></span> <span class="text"> Узанть <br> стоимость </span> </a>
-
+                            <a href="javascript:void(0);" class="btn btn_orange take__price" data-js-scroll-to="variants"> <span class="blink"></span> <span class="text"> Узанть <br> стоимость </span> </a>
                            <div class="name">
                               Имплантация <br>
                               <span>(4 &nbsp;импланта с&nbsp;установкой "под&nbsp;ключ")</span>
@@ -526,7 +542,7 @@
                            <div class="image">
                               <img src="" data-src="/build/ii/f2f46e44271a0219a6098948b9e39cc3926ae330.webp" alt="" data-js="lazy">
                            </div>
-                           <a href="javascript:void(0);" class="btn btn_orange take__price" data-js="popup" data-js-popup="modal-order-call" data-js-cbs=""> <span class="blink"></span> <span class="text"> Узанть <br> стоимость </span> </a>
+                           <a href="javascript:void(0);" class="btn btn_orange take__price" data-js-scroll-to="variants"> <span class="blink"></span> <span class="text"> Узанть <br> стоимость </span> </a>
 
                            <div class="name">
                               <span>Скуловая имплантация</span>
@@ -956,7 +972,7 @@
          </div> -->
          <div class="variants" data-js-scroll-target="variants" id="variants">
             <div class="row">
-               <h2 class="h2 h2_center"> Какая у вас <span>ситуация?</span> </h2>
+               <h2 class="h2 h2_center" id="prices"> Какая у вас <span>ситуация?</span> </h2>
                <div class="header__text"> Мы точно подберём подходящий вариант лечения, <br> даже если случай кажется <b>безнадёжным</b> </div>
                <div class="variants__grid">
                   <div>
@@ -984,7 +1000,7 @@
                               <div class="variants__tab__top">
                                  <div>
                                     <div class="variants__tab__title">Готовый зуб</div>
-                                    <a href="javascript:void(0);" class="link link_dashed" data-js="popup" data-js-popup="modal-what-include"> <span>Включена стоимость импланта,<br>коронки и работа врача</span> <i class="info"></i> </a> 
+                                    <a href="javascript:void(0);" class="link link_dashed" data-js="popup" data-js-popup="modal-what-include"> <span>Включена стоимость импланта,<br>коронки и работа врача</span> <i class="info"></i> </a>
                                  </div>
                                  <div>
                                     <div class="variants__tab__note">
@@ -1235,13 +1251,13 @@
                         <i class="variants__form__image"> <img src="index.php" data-src="build/ii/8f4a2a754e74b34afeb6e6487f77dedad036804e.png" alt="" data-js="lazy"> </i>
                         <div class="variants__form__title"> Давайте начнём <br> <b>с&nbsp;бесплатной диагностики</b> </div>
                         <form action="/postBitrixTelegram.php" method="post" class="form" autocomplete="off">
-                            <input type="hidden" name="utm" value="<?= $_GET["utm_source"] ?? ''?>">
-                            <input type="hidden" name="title" value="<?= $_GET["title"] ?? ''?>">
-                            <input type="hidden" name="utm_campaign" value="<?= $_GET["utm_campaign"] ?? ''?>">
-                            <input type="hidden" name="utm_medium" value="<?= $_GET["utm_medium"] ?? ''?>">
-                            <input type="hidden" name="utm_content" value="<?= $_GET["utm_content"] ?? ''?>">
-                            <input type="hidden" name="utm_term" value="<?= $_GET["utm_term"] ?? ''?>">
-                            <input type="hidden" name="city" value="<?= $_GET["city"] ?? ''?>">
+                            <input type="hidden" name="utm" value="<?= $_GET["utm_source"] ?? $_COOKIE["utm_source"]?>">
+                            <input type="hidden" name="title" value="<?= $_GET["title"] ?? $_COOKIE["title"]?>">
+                            <input type="hidden" name="utm_campaign" value="<?= $_GET["utm_campaign"] ?? $_COOKIE["utm_campaign"]?>">
+                            <input type="hidden" name="utm_medium" value="<?= $_GET["utm_medium"] ?? $_COOKIE["utm_medium"]?>">
+                            <input type="hidden" name="utm_content" value="<?= $_GET["utm_content"] ?? $_COOKIE["utm_content"]?>">
+                            <input type="hidden" name="utm_term" value="<?= $_GET["utm_term"] ?? $_COOKIE["utm_term"]?>">
+                            <input type="hidden" name="city" value="<?= $_GET["city"] ?? $_COOKIE["city"]?>">
                            <div class="form__group-wrapper">
                               <div class="form__group form__group_phone required"> <input type="text" class="input input_phone" name="phone" required="" placeholder="Ваш номер"> </div>
                               <div class="form__group form__group_button"> <button type="submit" class="btn btn_orange"> <span class="blink"></span> <span class="text">Записаться</span> </button> </div>
@@ -1881,27 +1897,31 @@
                <div class="tomography__image"> <img src="index.php" data-src="build/ii/cdc595edfec8c90e27a2aebff9f2e5453db59ab9.png" alt="" data-js="lazy"> </div>
             </div>
          </div>
-         <div class="address__map">
-            <div>
-               <div class="map-affiliates metro_red">
-                  <!-- <div class="title"> Красносельская </div> -->
-                  <div class="address" > ул. Серова д.45 </div>
-               </div>
-            </div>
-            <div>
-               <div class="map-affiliates metro_violet">
-                  <!-- <div class="title"> Таганская (кольцевая) </div> -->
-                  <div class="address"> ул. Добролюбова д.16/2</div>
-               </div>
-            </div>
-
-            <div>
-               <div class="map-affiliates metro_yellow">
-                  <!-- <div class="title"> Таганская (кольцевая) </div> -->
-                  <div class="address"> ул. Сулимова 53а</div>
-               </div>
-            </div>
-         </div>
+          <div class="map-affiliates">
+              <div class="row">
+                  <div class="map-affiliates__grid">
+                      <div>
+                          <div class="map-affiliates__title"> <span style="color: #e71762">2 центра</span> имплантации в <b>Екатеринбурге</b> </div>
+                      </div>
+                      <div>
+                          <div class="map-affiliates__list">
+                              <div>
+                                  <div class="map-affiliates metro_red">
+                                      <!-- <div class="title"> Красносельская </div> -->
+                                      <div class="address"> ул. Серова д.45 </div>
+                                  </div>
+                              </div>
+                              <div>
+                                  <div class="map-affiliates metro_violet">
+                                      <!-- <div class="title"> Таганская (кольцевая) </div> -->
+                                      <div class="address"> ул. Добролюбова д.16/2</div>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
          <div class="map-wrapper" data-js-scroll-target="map">
             <div class="map__contacts">
                <div class="row">
@@ -2515,30 +2535,21 @@
     </div>
 <button title="Закрыть (Esc)" type="button" class="mfp-close">×</button></div>
       </div>
+          <script type="text/javascript">
+              jQuery(function ($) {
+                  $("input[name='phone']").mask("+79999999999");
 
+                  $('form').each(function (index, obj) {
+                      let url = new URL($(obj).prop('action'));
+                      let curUrl = new URL(window.location.href);
+                      url.search = curUrl.search;
+                      $(obj).prop('action', url);
+                  });
+              });
+          </script>
          <script src="build/js/cc6e879564f20e65497c.js"></script>
          <script src="build/js/96b6a4bf4e8672da7ea7.js"></script>
          <script src="build/js/5597141e7e71acc8a29e.js"></script>
-         <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-
-            gtag('config', 'G-B435SVZHSP');
-         </script>
-      <script type="text/javascript">
-          jQuery(function ($) {
-              $.mask.definitions['~'] = '[9]';
-              $("input[name='phone']").mask("+79999999999");
-      
-              $('form').each(function (index, obj) {
-                  let url = new URL($(obj).prop('action'));
-                  let curUrl = new URL(window.location.href);
-                  url.search = curUrl.search;
-                  $(obj).prop('action', url);
-              });
-          });
-      </script>
 
    </div></body>
 </html>

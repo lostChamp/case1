@@ -16,6 +16,7 @@ foreach($fieldsBitrixQuery as $field) {
 $bitrixQuery["options"]["domen"] = $_SERVER["SERVER_NAME"] ?? "";
 $bitrixQuery["options"]["data"] = $tempPost;
 $bitrixPost = json_encode($bitrixQuery, true);
+var_dump($bitrixPost);
 
 $telegramQuery = json_decode(file_get_contents("queryTelegram.json"), true);
 $fieldsTelegramQuery = ["utm", "title", "utm_medium", "city"];
@@ -37,7 +38,7 @@ foreach($fieldsNotRequiredTg as $field) {
 $telegramQuery["options"]["domen"] = $_SERVER["SERVER_NAME"] ?? "";
 $telegramQuery["options"]["data"] = $_POST;
 $telegramPost = json_encode($telegramQuery, true);
-
+var_dump($telegramPost);
 
 
 //$ch = curl_init();
@@ -79,3 +80,4 @@ $telegramPost = json_encode($telegramQuery, true);
 ////));
 ////
 ////curl_close($curl);
+
