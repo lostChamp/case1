@@ -1,10 +1,10 @@
 <?php
-    $utm = $_GET["utm_source"] ?? null;
+    $utm = $_GET["utm_source"] ?? "";
     $cookie = $_COOKIE["utm_source"] ?? "";
     if(!array_key_exists("utm_source", $_COOKIE)) {
         setcookie("utm_source", $utm, time()+3600);
     }
-    if(array_key_exists("utm_source", $_COOKIE) && $_COOKIE["utm_source"] !== $utm && !is_null($utm)) {
+    if(array_key_exists("utm_source", $_COOKIE) && $_COOKIE["utm_source"] !== $utm && !empty($utm)) {
         setcookie("utm_source", $utm, time()+3600);
     }
 ?>
@@ -340,7 +340,6 @@
                                              <input type="tel" class="input input_phone" name="id">
                                              <label>Ваш телефон</label>
                                          </div>
-                                         <input type="tel" class="input input_phone_recaptcha" name="phone" placeholder="+7">
                                          <div class="form__group">
                                              <button type="submit" class="btn btn_quiz">
                                                  <span>Получить расчёт</span>
