@@ -1,6 +1,6 @@
 {
     "options": {
-        "title": "title",
+        "title": "Заявка с сайта https://ekb.stomadent66.ru",
         "bx": "ud",
         "city": "66",
         "utm": "utm_source",
@@ -8,9 +8,11 @@
         "utm_campaign": "utm_campaign",
         "utm_content": "utm_content",
         "utm_term": "utm_term",
-        "domen": "site.ru",
-        "data": {
-            "name": "value"
-        }
+        "domen": "ekb.stomatdent66.ru",
+        "data": [
+            {
+
+            }
+        ]
     }
 }
