@@ -3854,7 +3854,7 @@ textarea+label {
 		padding-bottom: 144px
 	}
 	.fs__grid>.fs__image {
-		max-width: 675px
+		max-width: 400px
 	}
 	.fs__subheader {
 		font-size: 16px;
@@ -3927,7 +3927,6 @@ textarea+label {
 	}
 	.fs__image {
 		right: -170px;
-		bottom: 63px
 	}
 	.fs__small-image {
 		right: 87px;
@@ -3949,6 +3948,7 @@ textarea+label {
 		flex-basis: calc(100% - 79px)
 	}
 }
+
 
 @media screen and (max-width:767px) {
 	.first-screen {
