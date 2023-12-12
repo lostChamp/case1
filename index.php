@@ -473,7 +473,7 @@
                            <div class="image">
                               <img src="" data-src="/build/ii/9bbb89c1f870f94aba07559512664ce75d20ba9b.webp" alt="" data-js="lazy">
                            </div>
-                            <a href="javascript:void(0);" class="btn btn_orange take__price" data-js-scroll-to="variants"> <span class="blink"></span> <span class="text"> Узанть <br> стоимость </span> </a>
+                            <a href="javascript:void(0);" class="btn btn_orange take__price" data-js-scroll-to="variants"> <span class="blink"></span> <span class="text"> Узнать <br> стоимость </span> </a>
 
                            <div class="name">
                               <span>Базальный имплант</span>
@@ -489,7 +489,7 @@
                            <div class="image">
                               <img src="" data-src="/build/ii/3b510c3abc07a00932e30feda2508f358d3b8b34.webp" alt="" data-js="lazy">
                            </div>
-                            <a href="javascript:void(0);" class="btn btn_orange take__price" data-js-scroll-to="variants"> <span class="blink"></span> <span class="text"> Узанть <br> стоимость </span> </a>
+                            <a href="javascript:void(0);" class="btn btn_orange take__price" data-js-scroll-to="variants"> <span class="blink"></span> <span class="text"> Узнать <br> стоимость </span> </a>
                             <div class="name">
                               <span>Кнопочный протез на&nbsp;имплантах</span>
                            </div>
@@ -504,7 +504,7 @@
                            <div class="image">
                               <img src="" data-src="/build/ii/1a7a195889398d88a1afc9fccf12313ca0bbbfab.webp" alt="" data-js="lazy">
                            </div>
-                            <a href="javascript:void(0);" class="btn btn_orange take__price" data-js-scroll-to="variants"> <span class="blink"></span> <span class="text"> Узанть <br> стоимость </span> </a>
+                            <a href="javascript:void(0);" class="btn btn_orange take__price" data-js-scroll-to="variants"> <span class="blink"></span> <span class="text"> Узнать <br> стоимость </span> </a>
                            <div class="name">
                               <span>Протез на&nbsp;балке</span>
                            </div>
@@ -519,7 +519,7 @@
                            <div class="image">
                               <img src="" data-src="/build/ii/fb2b2fd97e8ede53afebdbb6bcbbdfa6e8a3c61a.webp" alt="" data-js="lazy">
                            </div>
-                            <a href="javascript:void(0);" class="btn btn_orange take__price" data-js-scroll-to="variants"> <span class="blink"></span> <span class="text"> Узанть <br> стоимость </span> </a>
+                            <a href="javascript:void(0);" class="btn btn_orange take__price" data-js-scroll-to="variants"> <span class="blink"></span> <span class="text"> Узнать <br> стоимость </span> </a>
                            <div class="name">
                               Имплантация <br>
                               <span>(4 &nbsp;импланта с&nbsp;установкой "под&nbsp;ключ")</span>
@@ -535,7 +535,7 @@
                            <div class="image">
                               <img src="" data-src="/build/ii/f2f46e44271a0219a6098948b9e39cc3926ae330.webp" alt="" data-js="lazy">
                            </div>
-                           <a href="javascript:void(0);" class="btn btn_orange take__price" data-js-scroll-to="variants"> <span class="blink"></span> <span class="text"> Узанть <br> стоимость </span> </a>
+                           <a href="javascript:void(0);" class="btn btn_orange take__price" data-js-scroll-to="variants"> <span class="blink"></span> <span class="text"> Узнать <br> стоимость </span> </a>
 
                            <div class="name">
                               <span>Скуловая имплантация</span>
@@ -568,9 +568,9 @@
                                 </span>
                            </div>
                         </div>
-                        <h2 class="h2 about__title">Даём супергарантии для наших пациентов:
+                        <h2 class="h2 about__title" style="font-weight: 400">Даём супергарантии для наших пациентов:
                            <br>
-                           <span class="bold accent">
+                           <span class="bold accent" style="font-weight: bold">
                                 100 лет на работу врача
                             </span>
                         </h2>
@@ -642,7 +642,7 @@
                         </div>
                      </div>
                      <div class="about__specialization">
-                        <h2 class="h2 about__specialization-title"><span class="accent">
+                        <h2 class="h2 about__specialization-title"><span class="accent" style="text-transform: uppercase">
                                 Специализируемся именно на вашем случае
                             </span></h2>
                         <div class="about__specialization-subtitle">— клинический опыт экспертного уровня</div>
@@ -675,16 +675,16 @@
 
                               </picture>
                            </div>
-                           <div class="about__specialization-text-title"><span style="color: #fff">В 2022 году мы</span>
+                           <div class="about__specialization-text-title"><span style="color: #fff">В 2023 году мы</span>
                               <span class="text-accent-second">
                                     установили импланты
                                     <span class="nobr">
-                                        5 000-ному
+                                        25 000-ному
                                     </span>
                                     пациенту!
                                 </span>
                            </div>
-                           <div class="about__specialization-text">Уже более 5 000 пациентов оценили осознанное лечение
+                           <div class="about__specialization-text">Уже более 25 000 пациентов оценили осознанное лечение
                               и получили
                               <span class="bold">
                                     здоровую красивую улыбку!
@@ -1253,7 +1253,8 @@
                             <input type="hidden" name="city" value="<?= $_GET["city"] ?? ''?>">
                            <div class="form__group-wrapper">
                               <div class="form__group form__group_phone required"> <input type="text" class="input input_phone" name="phone" required="" placeholder="Ваш номер"> </div>
-                              <div class="form__group form__group_button"> <button type="submit" class="btn btn_orange"> <span class="blink"></span> <span class="text">Записаться</span> </button> </div>
+                              <div class="form__group form__group_button"> <button type="submit" class="btn btn_orange"> <span class="blink"></span> <span class="text" style="font-size: 22px;
+    line-height: 1.2;">Подобрать план лечения</span> </button> </div>
                               <div class="form__policy">Нажимая на кнопку, вы соглашаетесь на обработку <a href="personal.pdf"><span>персональных данных</span></a></div>
                            </div>
                         </form>
@@ -1270,19 +1271,19 @@
                                  <div class="variants__about__brands">
                                      <div class="variants__about__brand">
                                        <i><img src="index.php" data-src="build/ii/97888313402be0bed3052166b06e0ed9a043914d.png" alt="" data-js="lazy"></i>
-                                       <div>Корея (Osstem)</div>
+                                       <div style="color: #e71762">Корея (Osstem)</div>
                                     </div>
                                     <div class="variants__about__brand">
                                        <i><img src="index.php" data-src="build/ii/90fb81e0815cb0c9033d4a97cd6fe750355cf691.png" alt="" data-js="lazy"></i>
-                                       <div>США (Hiossen )</div>
+                                       <div style="color: #e71762">США (Hiossen )</div>
                                     </div>
                                     <div class="variants__about__brand">
                                        <i><img src="index.php" data-src="build/ii/3364d1967dfedfab4acc8f01090e460706255c6a.png" alt="" data-js="lazy"></i>
-                                       <div>Швейцария <br>(Nobel)</div>
+                                       <div style="color: #e71762">Швейцария <br>(Nobel)</div>
                                     </div>
                                     <div class="variants__about__brand">
                                        <i><img src="index.php" data-src="build/ii/3aa96f4788f759ca9193cc2693ee3d407914bc5e.png" alt="" data-js="lazy"></i>
-                                       <div>Германия (Ankylos)</div>
+                                       <div style="color: #e71762">Германия (Ankylos)</div>
                                     </div>
                                  </div>
                               </div>
@@ -1452,7 +1453,8 @@
                </div>
                <div class="free-diagnostics__button"> 
                   <a href="javascript:void(0);" class="btn btn_orange btn_tall" data-js="popup" data-js-popup="modal-order-call"> 
-                     <span class="blink"></span> <span class="text">Записаться на диагностику</span> </a> 
+                     <span class="blink"></span> <span class="text" style="font-size: 22px;
+    line-height: 1.2;">Получить первичную диагностику</span> </a>
 
                </div>
             </div>
@@ -1565,7 +1567,7 @@
                               <div class="employee__profession">
                                  <div>Челюстно-лицевой хирург, имплантолог</div>
                               </div>
-                              <a href="javascript:void(0);" class="btn btn_orange" data-js="popup" data-js-popup="modal-order-call" data-js-cbs=""> <span class="blink"></span> <span class="text">Записаться на <b>бесплатный</b>&nbsp;приём</span> </a>
+                              <a href="javascript:void(0);" class="btn btn_orange" data-js="popup" data-js-popup="modal-order-call" data-js-cbs=""> <span class="blink"></span> <span class="text" style="font-size: 22px">Записаться на <b>бесплатный</b>&nbsp;приём</span> </a>
                            </div>
                         </div>
                         <div class="employee">
@@ -1584,7 +1586,7 @@
                                     <nobr>хирург-имплантолог</nobr>
                                  </div>
                               </div>
-                              <a href="javascript:void(0);" class="btn btn_orange" data-js="popup" data-js-popup="modal-order-call" data-js-cbs=""> <span class="blink"></span> <span class="text">Записаться на <b>бесплатный</b>&nbsp;приём</span> </a>
+                              <a href="javascript:void(0);" class="btn btn_orange" data-js="popup" data-js-popup="modal-order-call" data-js-cbs=""> <span class="blink"></span> <span class="text" style="font-size: 22px">Записаться на <b>бесплатный</b>&nbsp;приём</span> </a>
                            </div>
                         </div>
                         <div class="employee">
@@ -1603,7 +1605,7 @@
                                     <nobr>хирург-ортопед</nobr>
                                  </div>
                               </div>
-                              <a href="javascript:void(0);" class="btn btn_orange" data-js="popup" data-js-popup="modal-order-call" data-js-cbs=""> <span class="blink"></span> <span class="text">Записаться на <b>бесплатный</b>&nbsp;приём</span> </a>
+                              <a href="javascript:void(0);" class="btn btn_orange" data-js="popup" data-js-popup="modal-order-call" data-js-cbs=""> <span class="blink"></span> <span class="text" style="font-size: 22px">Записаться на <b>бесплатный</b>&nbsp;приём</span> </a>
                            </div>
                         </div>                      
                        
@@ -1625,7 +1627,7 @@
                                     , <br>ортопед
                                  </div>
                               </div>
-                              <a href="javascript:void(0);" class="btn btn_orange" data-js="popup" data-js-popup="modal-order-call" data-js-cbs=""> <span class="blink"></span> <span class="text">Записаться на <b>бесплатный</b>&nbsp;приём</span> </a>
+                              <a href="javascript:void(0);" class="btn btn_orange" data-js="popup" data-js-popup="modal-order-call" data-js-cbs=""> <span class="blink"></span> <span class="text" style="font-size: 22px">Записаться на <b>бесплатный</b>&nbsp;приём</span> </a>
                            </div>
                         </div>
                      </div>

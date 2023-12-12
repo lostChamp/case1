@@ -19401,6 +19401,10 @@ textarea+label {
 	margin-left: 8px
 }
 
+.bold {
+	font-weight: bold;
+}
+
 .confidence__subtitle {
 	font-size: 24px;
 	line-height: 33px;

@@ -10076,7 +10076,7 @@
 						})), t._bindTo(u, "click", (function(e) {
 							l.slick("slickPrev")
 						})), t._bindTo(p, "click", (function(n) {
-							l.slick("slickNext"), e(n.currentTarget).data("js-results") && (a.fadeOut(200), t.showResultsCount(i))
+							l.slick("slickNext"), e(n.currentTarget).data("js-results") && (a.fadeOut(200), t.showResultsCount(i.find('.quiz__form')))
 						})), t._bindTo(e(window), "modal:opened", (function(t, n) {
 							e(n).find("[data-js-slider]").slick("refresh")
 						})), t._bindTo(s, "form:done", (function() {
@@ -10131,7 +10131,7 @@
 			}, {
 				key: "showResultsCount",
 				value: function showResultsCount(e) {
-					e.get(0).insertAdjacentHTML("beforeend", '\n            <div class="m-quiz__results__count">\n                <div>\n                    <div class="m-quiz__results__progress">\n                        <span class="bg"></span>\n                    </div>\n                    \n                    <div class="m-quiz__results__value-wrapper">\n                        <span class="m-quiz__results__value">0</span>\n                        <span class="m-quiz__results__value-percent">%</span>\n                    </div>\n                </div>\n            </div>\n        ');
+					e.get(0).insertAdjacentHTML("beforeend", '\n    <div class="m-quiz__results__count">\n                <div>\n                    <div class="m-quiz__results__progress">\n                        <span class="bg"></span>\n                    </div>\n                    \n                    <div class="m-quiz__results__value-wrapper">\n                        <span class="m-quiz__results__value">0</span>\n                        <span class="m-quiz__results__value-percent">%</span>\n                    </div>\n                </div>\n            </div>\n       ');
 					var t = 0,
 						n = e.find(".m-quiz__results__count");
 					n.fadeIn(2e7, (function() {
