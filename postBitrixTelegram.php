@@ -1,19 +1,19 @@
 <?php
 
-$templates = [
-    "question_1" => "Какую челюсть нужно восстановить ",
-    "question_2" => "Корни зубов ",
-    "question_3" => "Заболевания ",
-    "question_4" => "Лечение во сне ",
-    "question_5" => "Оплата ",
-    "question_6" => "Куда отправить расчет ",
-    "id" => "phone",
-    "phone" => "phone"
-];
-
-//$bitrix = "https://api.tech-ud72.ru/sendBx/index.php";
-//$telegram = "https://api.tech-ud72.ru/sendTg/index.php";
+//$templates = [
+//    "question_1" => "Какую челюсть нужно восстановить ",
+//    "question_2" => "Корни зубов ",
+//    "question_3" => "Заболевания ",
+//    "question_4" => "Лечение во сне ",
+//    "question_5" => "Оплата ",
+//    "question_6" => "Куда отправить расчет ",
+//    "id" => "phone",
+//    "phone" => "phone"
+//];
 //
+//$bitrix = "https://api.tech-ud72.ru/sendBx/index.php";
+////$telegram = "https://api.tech-ud72.ru/sendTg/index.php";
+////
 //$tempPost = $_POST;
 //
 //$bitrixQuery = json_decode(file_get_contents("queryBitrix.json"), true);
