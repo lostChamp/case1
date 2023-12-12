@@ -1,5 +1,6 @@
 <?php
     $utm = $_GET["utm_source"] ?? null;
+    $cookie = $_COOKIE["utm_source"] ?? "";
     if(!array_key_exists("utm_source", $_COOKIE)) {
         setcookie("utm_source", $utm, time()+3600);
     }
@@ -21,23 +22,6 @@
       <meta property="og:description" content="Имплантация и протезирование зубов по выгодным ценам. Звоните и записывайтесь на бесплатную консультацию!">
       <meta name="description" content="Имплантация и протезирование зубов по выгодным ценам. Звоните и записывайтесь на бесплатную консультацию!">
       <link rel="stylesheet" href="build/css/7017ad898dff2b9013b3.css">
-       <script>
-           function phoneMask() {
-               const inputTel = document.querySelectorAll('input[type=tel]');
-               inputTel.forEach(input => {
-                   input.addEventListener('input', (e) => {
-                       e.preventDefault();
-                       if (input.value.length <= 2)
-                           input.value = (e.data != null) ? "+7" + e.data : "+7";
-                       if (e.data != null)
-                           if (e.data.match(/[0-9+-]/) == null || input.value.length > 12)
-                               input.value = input.value.substring(0, input.value.length - 1);
-                   });
-               });
-           }
-
-           document.addEventListener('DOMContentLoaded', phoneMask);
-       </script>
    </head>
    <body>
       <div class="content ">
@@ -129,7 +113,7 @@
                         <input type="hidden" name="tags" value="Заявка с квиза" class="input">
                         <input type="hidden" name="subject" value="Пройден тест (квиз)">
                         <input type="hidden" name="form_type" value="quiz">
-                         <input type="hidden" name="utm" value="<?= is_null($utm) ? $_COOKIE['utm_source'] : $utm ?>">
+                         <input type="hidden" name="utm" value="<?= empty($utm) ? $cookie : $utm ?>">
                          <input type="hidden" name="title" value="<?= $_GET["title"] ?? ''?>">
                          <input type="hidden" name="utm_campaign" value="<?= $_GET["utm_campaign"] ?? ''?>">
                          <input type="hidden" name="utm_medium" value="<?= $_GET["utm_medium"] ?? ''?>">
@@ -345,34 +329,34 @@
                               </div>
                            </div>
                         </div>
-                        <div class="m-quiz__results">
-                           <div class="m-quiz__results-wrapper">
-                              <div class="m-quiz__results-title">
-                                 Почти готово! Введите номер, на который отправить расчёт и &nbsp;закрепите за собой <span>скидку в 50% + 3D-снимок в рамках лечения</span>
-                              </div>
-                              <div class="m-quiz__results-form">
-                                 <div class="quiz__submit">
-                                    <div class="form__group required">
-                                       <input type="tel" class="input input_phone" name="id">
-                                       <label>Ваш телефон</label>
-                                    </div>
-                                    <input type="tel" class="input input_phone_recaptcha" name="phone" placeholder="+79999999999">
-                                    <div class="form__group">
-                                       <button type="submit" class="btn btn_quiz">
-                                          <span>Получить расчёт</span>
-                                       </button>
-                                    </div>
-                                    <div class="form__policy">
-                                       Нажимая на кнопку, вы соглашаетесь<br>
-                                       на
-                                       <a class="link underline" href="javascript:void(0);" data-js="popup" data-js-popup="modal-policy" data-ajax="/modal?module=modals&view=policy">
-                                          <span>обработку персональных данных</span>
-                                       </a>
-                                    </div>
+                         <div class="m-quiz__results">
+                             <div class="m-quiz__results-wrapper">
+                                 <div class="m-quiz__results-title">
+                                     Почти готово! Введите номер, на который отправить расчёт и &nbsp;закрепите за собой <span>скидку в 50% + 3D-снимок в рамках лечения</span>
                                  </div>
-                              </div>
-                           </div>
-                        </div>
+                                 <div class="m-quiz__results-form">
+                                     <div class="quiz__submit">
+                                         <div class="form__group required">
+                                             <input type="tel" class="input input_phone" name="id">
+                                             <label>Ваш телефон</label>
+                                         </div>
+                                         <input type="tel" class="input input_phone_recaptcha" name="phone" placeholder="+7">
+                                         <div class="form__group">
+                                             <button type="submit" class="btn btn_quiz">
+                                                 <span>Получить расчёт</span>
+                                             </button>
+                                         </div>
+                                         <div class="form__policy">
+                                             Нажимая на кнопку, вы соглашаетесь<br>
+                                             на
+                                             <a class="link underline" href="javascript:void(0);" data-js="popup" data-js-popup="modal-policy" data-ajax="/modal?module=modals&view=policy">
+                                                 <span>обработку персональных данных</span>
+                                             </a>
+                                         </div>
+                                     </div>
+                                 </div>
+                             </div>
+                         </div>
                      </form>
                      <div class="m-quiz__thanks" data-js-quiz="after-submit">
                         <div class="m-quiz__thanks-wrapper">
@@ -573,7 +557,7 @@
                <div class="row">
                   <div class="about__wrap">
                      <div class="progress_bar progress_bar-1">
-                        <span></span>
+                        <span style="width: 129px; overflow: hidden;"></span>
                      </div>
                      <div class="about__wrapper">
                         <div class="about__above-block">
@@ -716,7 +700,7 @@
             <section class="confidence" data-js-scroll-target="confidence">
                <div class="row">
                   <div class="progress_bar progress_bar-2">
-                     <span></span>
+                     <span style="width: 283.8px; overflow: hidden;"></span>
                   </div>
                   <div class="confidence__above-text"><span>
                         <span class="text-accent-second">
@@ -1260,7 +1244,7 @@
                         <i class="variants__form__image"> <img src="index.php" data-src="build/ii/8f4a2a754e74b34afeb6e6487f77dedad036804e.png" alt="" data-js="lazy"> </i>
                         <div class="variants__form__title"> Давайте начнём <br> <b>с&nbsp;бесплатной диагностики</b> </div>
                         <form action="/postBitrixTelegram.php" method="post" class="form" autocomplete="off">
-                            <input type="hidden" name="utm" value="<?= is_null($utm) ? $_COOKIE['utm_source'] : $utm ?>">
+                            <input type="hidden" name="utm" value="<?= empty($utm) ? $cookie : $utm ?>">
                             <input type="hidden" name="title" value="<?= $_GET["title"] ?? ''?>">
                             <input type="hidden" name="utm_campaign" value="<?= $_GET["utm_campaign"] ?? ''?>">
                             <input type="hidden" name="utm_medium" value="<?= $_GET["utm_medium"] ?? ''?>">
@@ -2126,7 +2110,7 @@
             </div>
     
             <form action="/postBitrixTelegram.php" method="post" class="form form_grid" autocomplete="off">
-                <input type="hidden" name="utm" value="<?= is_null($utm) ? $_COOKIE['utm_source'] : $utm ?>">
+                <input type="hidden" name="utm" value="<?= empty($utm) ? $cookie : $utm ?>">
                 <input type="hidden" name="title" value="<?= $_GET["title"] ?? ''?>">
                 <input type="hidden" name="utm_campaign" value="<?= $_GET["utm_campaign"] ?? ''?>">
                 <input type="hidden" name="utm_medium" value="<?= $_GET["utm_medium"] ?? ''?>">
@@ -2231,7 +2215,7 @@
             </div>
     
             <form action="/postBitrixTelegram.php" method="post" class="form form_grid" autocomplete="off">
-                <input type="hidden" name="utm" value="<?= is_null($utm) ? $_COOKIE['utm_source'] : $utm ?>">
+                <input type="hidden" name="utm" value="<?= empty($utm) ? $cookie : $utm ?>">
                 <input type="hidden" name="title" value="<?= $_GET["title"] ?? ''?>">
                 <input type="hidden" name="utm_campaign" value="<?= $_GET["utm_campaign"] ?? ''?>">
                 <input type="hidden" name="utm_medium" value="<?= $_GET["utm_medium"] ?? ''?>">
@@ -2335,7 +2319,7 @@
             </div>
     
             <form action="/postBitrixTelegram.php" method="post" class="form form_grid" autocomplete="off">
-                <input type="hidden" name="utm" value="<?= is_null($utm) ? $_COOKIE['utm_source'] : $utm ?>">
+                <input type="hidden" name="utm" value="<?= empty($utm) ? $cookie : $utm ?>">
                 <input type="hidden" name="title" value="<?= $_GET["title"] ?? ''?>">
                 <input type="hidden" name="utm_campaign" value="<?= $_GET["utm_campaign"] ?? ''?>">
                 <input type="hidden" name="utm_medium" value="<?= $_GET["utm_medium"] ?? ''?>">
@@ -2439,7 +2423,7 @@
             </div>
     
             <form action="/postBitrixTelegram.php" method="post" class="form form_grid" autocomplete="off">
-                <input type="hidden" name="utm" value="<?= is_null($utm) ? $_COOKIE['utm_source'] : $utm ?>">
+                <input type="hidden" name="utm" value="<?= empty($utm) ? $cookie : $utm ?>">
                 <input type="hidden" name="title" value="<?= $_GET["title"] ?? ''?>">
                 <input type="hidden" name="utm_campaign" value="<?= $_GET["utm_campaign"] ?? ''?>">
                 <input type="hidden" name="utm_medium" value="<?= $_GET["utm_medium"] ?? ''?>">
@@ -2476,7 +2460,7 @@
             <div class="modal__form-wrapper">
                 <form action="/postBitrixTelegram.php" method="post" class="form form_grid" autocomplete="off">
 
-                    <input type="hidden" name="utm" value="<?= is_null($utm) ? $_COOKIE['utm_source'] : $utm ?>">
+                    <input type="hidden" name="utm" value="<?= empty($utm) ? $cookie : $utm ?>">
                     <input type="hidden" name="title" value="<?= $_GET["title"] ?? ''?>">
                     <input type="hidden" name="utm_campaign" value="<?= $_GET["utm_campaign"] ?? ''?>">
                     <input type="hidden" name="utm_medium" value="<?= $_GET["utm_medium"] ?? ''?>">
@@ -2544,18 +2528,6 @@
     </div>
 <button title="Закрыть (Esc)" type="button" class="mfp-close">×</button></div>
       </div>
-          <script type="text/javascript">
-              jQuery(function ($) {
-                  $("input[name='phone']").mask("+79999999999");
-
-                  $('form').each(function (index, obj) {
-                      let url = new URL($(obj).prop('action'));
-                      let curUrl = new URL(window.location.href);
-                      url.search = curUrl.search;
-                      $(obj).prop('action', url);
-                  });
-              });
-          </script>
          <script src="build/js/cc6e879564f20e65497c.js"></script>
          <script src="build/js/96b6a4bf4e8672da7ea7.js"></script>
          <script src="build/js/5597141e7e71acc8a29e.js"></script>

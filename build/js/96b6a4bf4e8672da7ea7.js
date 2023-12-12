@@ -8634,7 +8634,7 @@
                             "" === e.trim(n.val()) && n.parent().removeClass("focused")
                         }));
                         new i.a({
-                            mask: "(h99) 999-99-99",
+                            mask: "+7 (h99) 999-99-99",
                             showMaskOnHover: !1,
                             definitions: {
                                 h: {
