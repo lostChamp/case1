@@ -99,12 +99,6 @@
                     var o = this;
                     t.each((function(t, i) {
                         var a = e(i);
-                        if (a.length && n) {
-                            var s = o._parseEventName(n);
-                            a.off(s).on(s, (function(t, n) {
-                                e.isFunction(r) && r(t, n)
-                            }))
-                        }
                     }))
                 }
             }, {

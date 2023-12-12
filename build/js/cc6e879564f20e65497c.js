@@ -4246,41 +4246,6 @@
 			}
 			var S, T = {
 					on: function(t, o, r) {
-						var ev = function(t) {
-							var o = this;
-							if(o.inputmask === n && "FORM" !== this.nodeName) {
-								var i = e.data(o, "_inputmask_opts");
-								i ? new Inputmask(i).mask(o) : T.off(o)
-							} else {
-								if("setvalue" === t.type || "FORM" === this.nodeName || !(o.disabled || o.readOnly && !("keydown" === t.type && t.ctrlKey && 67 === t.keyCode || !1 === u.tabThrough && t.keyCode === Inputmask.keyCode.TAB))) {
-									switch(t.type) {
-										case "input":
-											if(!0 === w) return w = !1, t.preventDefault();
-											if(a) {
-												var c = arguments;
-												return setTimeout((function() {
-													r.apply(o, c), caret(o, o.inputmask.caretPos, n, !0)
-												}), 0), !1
-											}
-											break;
-										case "keydown":
-											k = !1, w = !1;
-											break;
-										case "keypress":
-											if(!0 === k) return t.preventDefault();
-											k = !0;
-											break;
-										case "click":
-											if(s || l) return c = arguments, setTimeout((function() {
-												r.apply(o, c)
-											}), 0), !1
-									}
-									var p = r.apply(o, arguments);
-									return !1 === p && (t.preventDefault(), t.stopPropagation()), p
-								}
-								t.preventDefault()
-							}
-						};
 						t.inputmask.events[o] = t.inputmask.events[o] || [], t.inputmask.events[o].push(ev), -1 !== e.inArray(o, ["submit", "reset"]) ? null !== t.form && e(t.form).on(o, ev) : e(t).on(o, ev)
 					},
 					off: function(t, n) {
