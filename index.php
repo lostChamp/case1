@@ -400,82 +400,82 @@
             </section>
          </div>
          <div class="reviews__section">
-            <section class="reviews2" data-js-scroll-target="reviews">
-               <div class="row">
-                  <div class="reviews__slider-wrapper2" data-js="reviews-slider-wrapper2">
-                     <div class="reviews__title2">
-                        <h2 class="h2">
-                           Улыбка <b>как в молодости</b>
-                        </h2>
-                        <div class="subtitle">Мы работаем с любыми случаями, даже очень тяжёлыми </div>
+             <section class="reviews" data-js-scroll-target="reviews">
+                 <div class="row">
+                     <div class="reviews__slider-wrapper" data-js="reviews-slider-wrapper">
+                         <div class="reviews__title">
+                             <h2 class="h2">
+                                 Улыбка <span>как в молодости</span>
+                             </h2>
+                             <div class="subtitle">Мы работаем с любыми случаями, даже очень тяжёлыми </div>
+                         </div>
+                         <div class="reviews__slider" data-js-reviews="slider">
+                             <div class="reviews__item">
+                                 <a class="reviews__photo" href="https://www.youtube.com/watch?v=Gh47IU5IZFc" data-js="video-popup">
+                                     <video autoplay muted playsinline loop>
+                                         <source src="/build/ii/51ed89d60b5c313a7e07de1f689d4b78dce97a7e.mp4" data-src="/build/ii/51ed89d60b5c313a7e07de1f689d4b78dce97a7e.mp4" type="video/mp4" data-js="lazy">
+                                     </video>
+                                 </a>
+                                 <div class="reviews__text">
+                                     <div class="reviews__text-title">
+                                         Чувствуешь свободу, <br/>как при покупке новой машины
+                                     </div>
+                                     <p class="reviews__text-body" data-js="text_overflow">Моя операция прошла совершенно спокойно. Когда есть зубы, чувствуешь свободу, как при покупке новой машины. Знаешь, что ты можешь улыбаться, можешь есть все, что угодно… Хорошая клиника. Хорошие врачи. Хорошее обслуживание. Что ещё нужно человеку? </p>
+                                 </div>
+                                 <div class="reviews__image">
+                                     <a href="javascript:void(0);" data-src="/build/ii/81db76485a08ad4856234cb3e780421060f34ef2.webp" data-js="image-popup">
+                                         <img src="" data-lazy="/build/ii/8283e2227740cd637db6fc6d96e7ddc620dd64ed.webp" alt="">
+                                     </a>
+                                 </div>
+                             </div>
+                             <div class="reviews__item">
+                                 <a class="reviews__photo" href="https://www.youtube.com/watch?v=69cTmwsLSt4" data-js="video-popup">
+                                     <video autoplay muted playsinline loop>
+                                         <source src="/build/ii/3d3b5171ab377cf0752fa4cd63031e5765443ad4.mp4" data-src="/build/ii/3d3b5171ab377cf0752fa4cd63031e5765443ad4.mp4" type="video/mp4" data-js="lazy">
+                                     </video>
+                                 </a>
+                                 <div class="reviews__text">
+                                     <div class="reviews__text-title">
+                                         После операции моя<br/>жизнь изменилась замечательно!
+                                     </div>
+                                     <p class="reviews__text-body" data-js="text_overflow">У меня появилось новое стремление к жизни. Потому что, действительно, от зубов ведь многое зависит. Я даже удивился тому, как всё прошло быстро и качественно. Уже после второго дня моё состояние стабилизировалось полностью. И жизнь моя изменилась замечательно! </p>
+                                 </div>
+                                 <div class="reviews__image">
+                                     <a href="javascript:void(0);" data-src="/build/ii/704c583c7c554e747186580f7806a34a49029359.webp" data-js="image-popup">
+                                         <img src="" data-lazy="/build/ii/13315a634810ce7943b259b5ca68fafa07709de4.webp" alt="">
+                                     </a>
+                                 </div>
+                             </div>
+                         </div>
                      </div>
-                     <div class="reviews__slider2" data-js-reviews="slider">
-                        <div class="reviews__item2">
-                           <a class="reviews__photo2" href="https://www.youtube.com/watch?v=Gh47IU5IZFc" data-js="video-popup">
-                              <video autoplay muted playsinline loop>
-                                 <source src="/build/ii/51ed89d60b5c313a7e07de1f689d4b78dce97a7e.mp4" data-src="/build/ii/51ed89d60b5c313a7e07de1f689d4b78dce97a7e.mp4" type="video/mp4" data-js="lazy">
-                              </video>
-                           </a>
-                           <div class="reviews__text2">
-                              <div class="reviews__text-title2">
-                                 Чувствуешь свободу, <br/>как при покупке новой машины
-                              </div>
-                              <p class="reviews__text-body2" data-js="text_overflow">Моя операция прошла совершенно спокойно. Когда есть зубы, чувствуешь свободу, как при покупке новой машины. Знаешь, что ты можешь улыбаться, можешь есть все, что угодно… Хорошая клиника. Хорошие врачи. Хорошее обслуживание. Что ещё нужно человеку? </p>
-                           </div>
-                           <div class="reviews__image2">
-                              <a href="javascript:void(0);" data-src="/build/ii/81db76485a08ad4856234cb3e780421060f34ef2.webp" data-js="image-popup">
-                                 <img src="" data-lazy="/build/ii/8283e2227740cd637db6fc6d96e7ddc620dd64ed.webp" alt="">
-                              </a>
-                           </div>
-                        </div>
-                        <div class="reviews__item2">
-                           <a class="reviews__photo2" href="https://www.youtube.com/watch?v=69cTmwsLSt4" data-js="video-popup">
-                              <video autoplay muted playsinline loop>
-                                 <source src="/build/ii/3d3b5171ab377cf0752fa4cd63031e5765443ad4.mp4" data-src="/build/ii/3d3b5171ab377cf0752fa4cd63031e5765443ad4.mp4" type="video/mp4" data-js="lazy">
-                              </video>
-                           </a>
-                           <div class="reviews__text2">
-                              <div class="reviews__text-title2">
-                                 После операции моя<br/>жизнь изменилась замечательно!
-                              </div>
-                              <p class="reviews__text-body2" data-js="text_overflow">У меня появилось новое стремление к жизни. Потому что, действительно, от зубов ведь многое зависит. Я даже удивился тому, как всё прошло быстро и качественно. Уже после второго дня моё состояние стабилизировалось полностью. И жизнь моя изменилась замечательно! </p>
-                           </div>
-                           <div class="reviews__image2">
-                              <a href="javascript:void(0);" data-src="/build/ii/704c583c7c554e747186580f7806a34a49029359.webp" data-js="image-popup">
-                                 <img src="" data-lazy="/build/ii/13315a634810ce7943b259b5ca68fafa07709de4.webp" alt="">
-                              </a>
-                           </div>
-                        </div>
+                     <div class="reviews__advantages">
+                         <div class="reviews__advantage">
+                             <div class="reviews__advantage-image">
+                                 <img src="" data-src="/build/ii/dd2a48b2ed996bb2d464f7bb7d5b92a65ea081c1.webp" alt="" data-js="lazy">
+                             </div>
+                             <div class="reviews__advantage-text">Оптимальное решение при полном отсутствии зубов </div>
+                         </div>
+                         <div class="reviews__advantage">
+                             <div class="reviews__advantage-image">
+                                 <img src="" data-src="/build/ii/ec5362f7c36e6412741a2f7334627fe4eb020a90.webp" alt="" data-js="lazy">
+                             </div>
+                             <div class="reviews__advantage-text">Костная пластика больше не&nbsp;нужна </div>
+                         </div>
+                         <div class="reviews__advantage">
+                             <div class="reviews__advantage-image">
+                                 <img src="" data-src="/build/ii/c8b7f055d9b06c8978ae258d36c7dcfbff75eb2d.webp" alt="" data-js="lazy">
+                             </div>
+                             <div class="reviews__advantage-text">Приживление имплантов — 99,8% </div>
+                         </div>
+                         <div class="reviews__advantage">
+                             <div class="reviews__advantage-image">
+                                 <img src="" data-src="/build/ii/d6531e0950f626040dc76c2497dc9198362ee535.webp" alt="" data-js="lazy">
+                             </div>
+                             <div class="reviews__advantage-text">Чёткая дикция и улыбка, как в молодости </div>
+                         </div>
                      </div>
-                  </div>
-                  <div class="reviews__advantages2">
-                     <div class="reviews__advantage2">
-                        <div class="reviews__advantage-image2">
-                           <img src="" data-src="/build/ii/dd2a48b2ed996bb2d464f7bb7d5b92a65ea081c1.webp" alt="" data-js="lazy">
-                        </div>
-                        <div class="reviews__advantage-text2">Оптимальное решение при полном отсутствии зубов </div>
-                     </div>
-                     <div class="reviews__advantage2">
-                        <div class="reviews__advantage-image2">
-                           <img src="" data-src="/build/ii/ec5362f7c36e6412741a2f7334627fe4eb020a90.webp" alt="" data-js="lazy">
-                        </div>
-                        <div class="reviews__advantage-text2">Костная пластика больше не&nbsp;нужна </div>
-                     </div>
-                     <div class="reviews__advantage2">
-                        <div class="reviews__advantage-image2">
-                           <img src="" data-src="/build/ii/c8b7f055d9b06c8978ae258d36c7dcfbff75eb2d.webp" alt="" data-js="lazy">
-                        </div>
-                        <div class="reviews__advantage-text2">Приживление имплантов — 99,8% </div>
-                     </div>
-                     <div class="reviews__advantage2">
-                        <div class="reviews__advantage-image2">
-                           <img src="" data-src="/build/ii/d6531e0950f626040dc76c2497dc9198362ee535.webp" alt="" data-js="lazy">
-                        </div>
-                        <div class="reviews__advantage-text2">Чёткая дикция и улыбка, как в молодости </div>
-                     </div>
-                  </div>
-               </div>
-            </section>
+                 </div>
+             </section>
          </div>
          <div class="prices__section">
             <section class="prices" data-js-scroll-target="prices">
