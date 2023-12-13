@@ -37,9 +37,11 @@
       <noscript><div><img src="https://top-fwz1.mail.ru/counter?id=3464107;js=na" style="position:absolute;left:-9999px;" alt="Top.Mail.Ru" /></div></noscript>
       <!-- /Top.Mail.Ru counter -->
       <script type="text/javascript">
-         function _tmpPush() {
-            _tmr.push({ type: 'reachGoal', id: 3464107, goal: 'submit'});
-         }
+         document.querySelectorAll("form").forEach(form => {
+            form.addEventListener("submit", () => {
+                _tmr.push({ type: 'reachGoal', id: 3464107, goal: 'submit'});
+            });
+         });
       </script>
    </head>
    <body>
@@ -360,7 +362,7 @@
                                              <label>Ваш телефон</label>
                                          </div>
                                          <div class="form__group">
-                                             <button type="submit" onclick="_tmpPush()" class="btn btn_quiz">
+                                             <button type="submit" class="btn btn_quiz">
                                                  <span>Получить расчёт</span>
                                              </button>
                                          </div>
@@ -1271,7 +1273,7 @@
                             <input type="hidden" name="city" value="<?= $_GET["city"] ?? ''?>">
                            <div class="form__group-wrapper">
                               <div class="form__group form__group_phone required"> <input type="text" class="input input_phone" name="phone" required="" placeholder="Ваш номер"> </div>
-                              <div class="form__group form__group_button"> <button type="submit" onclick="_tmpPush()" class="btn btn_orange"> <span class="blink"></span> <span class="text" style="font-size: 22px;
+                              <div class="form__group form__group_button"> <button type="submit" class="btn btn_orange"> <span class="blink"></span> <span class="text" style="font-size: 22px;
     line-height: 1.2;">Подобрать план лечения</span> </button> </div>
                               <div class="form__policy">Нажимая на кнопку, вы соглашаетесь на обработку <a href="personal.pdf"><span>персональных данных</span></a></div>
                            </div>
@@ -2151,7 +2153,7 @@
         </div>
         
         <div class="form__group form__group_button">
-            <button type="submit" onclick="_tmpPush()" class="btn btn_orange">
+            <button type="submit" class="btn btn_orange">
                 <span class="blink"></span>
                 <span class="text">Записаться</span>
             </button>
@@ -2256,7 +2258,7 @@
         </div>
         
         <div class="form__group form__group_button">
-            <button type="submit" onclick="_tmpPush()" class="btn btn_orange">
+            <button type="submit" class="btn btn_orange">
                 <span class="blink"></span>
                 <span class="text">Записаться</span>
             </button>
@@ -2360,7 +2362,7 @@
         </div>
         
         <div class="form__group form__group_button">
-            <button type="submit" onclick="_tmpPush()" class="btn btn_orange">
+            <button type="submit" class="btn btn_orange">
                 <span class="blink"></span>
                 <span class="text">Записаться</span>
             </button>
@@ -2464,7 +2466,7 @@
         </div>
         
         <div class="form__group form__group_button">
-            <button type="submit" onclick="_tmpPush()" class="btn btn_orange">
+            <button type="submit" class="btn btn_orange">
                 <span class="blink"></span>
                 <span class="text">Записаться</span>
             </button>
@@ -2500,7 +2502,7 @@
         </div>
         
         <div class="form__group form__group_button">
-            <button type="submit" onclick="_tmpPush()" class="btn btn_orange">
+            <button type="submit" class="btn btn_orange">
                 <span class="blink"></span>
                 <span class="text">Отправить</span>
             </button>
