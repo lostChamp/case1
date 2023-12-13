@@ -356,7 +356,7 @@
                                  <div class="m-quiz__results-form">
                                      <div class="quiz__submit">
                                          <div class="form__group required">
-                                             <input type="tel" class="input input_phone" name="id">
+                                             <input type="tel" class="input input_phone" name="id" required>
                                              <label>Ваш телефон</label>
                                          </div>
                                          <div class="form__group">
