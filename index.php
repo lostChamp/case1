@@ -22,6 +22,25 @@
       <meta property="og:description" content="Имплантация и протезирование зубов по выгодным ценам. Звоните и записывайтесь на бесплатную консультацию!">
       <meta name="description" content="Имплантация и протезирование зубов по выгодным ценам. Звоните и записывайтесь на бесплатную консультацию!">
       <link rel="stylesheet" href="build/css/7017ad898dff2b9013b3.css">
+      <!-- Top.Mail.Ru counter -->
+      <script type="text/javascript">
+      var _tmr = window._tmr || (window._tmr = []);
+      _tmr.push({id: "3464107", type: "pageView", start: (new Date()).getTime()});
+      (function (d, w, id) {
+      if (d.getElementById(id)) return;
+      var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+      ts.src = "https://top-fwz1.mail.ru/js/code.js";
+      var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+      if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+      })(document, window, "tmr-code");
+      </script>
+      <noscript><div><img src="https://top-fwz1.mail.ru/counter?id=3464107;js=na" style="position:absolute;left:-9999px;" alt="Top.Mail.Ru" /></div></noscript>
+      <!-- /Top.Mail.Ru counter -->
+      <script type="text/javascript">
+         function _tmpPush() {
+            _tmr.push({ type: 'reachGoal', id: 3464107, goal: 'submit'});
+         }
+      </script>
    </head>
    <body>
       <div class="content ">
@@ -46,7 +65,7 @@
                      </div> 
                      <div class="header__grid__right">
                         <div class="header__affiliates-wrapper">
-                           <a class="header__affiliates"> <span>3 клиники в&nbsp;Екатеринбурге</span> </a> 
+                           <a href="" class="header__affiliates"> <span>3 клиники в&nbsp;Екатеринбурге</span> </a>
                            <div class="work-time"> Работаем <b>с 9:00 до 21:00</b> </div>
                            <a href="tel:+73433190412" class="phone phone_adaptive">+7 (3433) 190-412</a> 
                         </div>
@@ -75,7 +94,7 @@
                                        <div>правда ли гарантия <b>пожизненная</b></div>
                                     </div>
                                  </div>
-                                 <a href="javascript:void(0);" class="btn btn_orange btn_tall btn_with-image" data-js-scroll-to="head-doctor"> <span class="blink"></span> <span class="text"> Узнать всю <b>правду</b> об&nbsp;имплантации </span> <i class="image"> <img src="index.php" data-src="build/ii/ab9da8979f20de868a4381f18b6a3a23e5b73a2d.png" alt="" data-js="lazy"> </i> </a>
+                                 <a href="javascript:void(0);" class="btn btn_orange btn_tall btn_with-image" data-js-scroll-to="head-doctor"> <span class="blink"></span> <span class="text more__small"> Узнать всю <b>правду</b> об&nbsp;имплантации </span> <i class="image"> <img src="index.php" data-src="build/ii/ab9da8979f20de868a4381f18b6a3a23e5b73a2d.png" alt="" data-js="lazy"> </i> </a>
                               </div>
                               <div class="fs__appointment">
                                  <div class="fs__appointment__text"> <span> Или вы можете сразу записаться на бесплатную диагностику и&nbsp;получить честный <b>план лечения <br> + 3Д диагностику</b></b> </span> </div>
@@ -288,8 +307,8 @@
                                                       <span class="text">Viber</span>
                                                    </label>
                                                    <label class="radio__item" data-js-radio="input">
-                                                      <input type="radio" name="question_6" value="Бесплатная консультация по телефону" data-js-quiz-radio="input">
-                                                      <span class="text" style="display: contents">Бесплатная консультация по телефону</span>
+                                                      <input type="radio" name="question_6" value="Позвоните по телефону, хочу узнать обо всех акциях и скидках" data-js-quiz-radio="input">
+                                                      <span class="text" style="display: contents">Позвоните по телефону, хочу узнать обо всех акциях и скидках</span>
                                                    </label>
                                                 </div>
                                              </div>
@@ -341,7 +360,7 @@
                                              <label>Ваш телефон</label>
                                          </div>
                                          <div class="form__group">
-                                             <button type="submit" class="btn btn_quiz">
+                                             <button type="submit" onclick="_tmpPush()" class="btn btn_quiz">
                                                  <span>Получить расчёт</span>
                                              </button>
                                          </div>
@@ -381,47 +400,47 @@
             </section>
          </div>
          <div class="reviews__section">
-            <section class="reviews" data-js-scroll-target="reviews">
+            <section class="reviews2" data-js-scroll-target="reviews">
                <div class="row">
-                  <div class="reviews__slider-wrapper" data-js="reviews-slider-wrapper">
-                     <div class="reviews__title">
+                  <div class="reviews__slider-wrapper2" data-js="reviews-slider-wrapper2">
+                     <div class="reviews__title2">
                         <h2 class="h2">
                            Улыбка <b>как в молодости</b>
                         </h2>
                         <div class="subtitle">Мы работаем с любыми случаями, даже очень тяжёлыми </div>
                      </div>
-                     <div class="reviews__slider" data-js-reviews="slider">
-                        <div class="reviews__item">
-                           <a class="reviews__photo" href="https://www.youtube.com/watch?v=Gh47IU5IZFc" data-js="video-popup">
+                     <div class="reviews__slider2" data-js-reviews="slider">
+                        <div class="reviews__item2">
+                           <a class="reviews__photo2" href="https://www.youtube.com/watch?v=Gh47IU5IZFc" data-js="video-popup">
                               <video autoplay muted playsinline loop>
                                  <source src="/build/ii/51ed89d60b5c313a7e07de1f689d4b78dce97a7e.mp4" data-src="/build/ii/51ed89d60b5c313a7e07de1f689d4b78dce97a7e.mp4" type="video/mp4" data-js="lazy">
                               </video>
                            </a>
-                           <div class="reviews__text">
-                              <div class="reviews__text-title">
+                           <div class="reviews__text2">
+                              <div class="reviews__text-title2">
                                  Чувствуешь свободу, <br/>как при покупке новой машины
                               </div>
-                              <p class="reviews__text-body" data-js="text_overflow">Моя операция прошла совершенно спокойно. Когда есть зубы, чувствуешь свободу, как при покупке новой машины. Знаешь, что ты можешь улыбаться, можешь есть все, что угодно… Хорошая клиника. Хорошие врачи. Хорошее обслуживание. Что ещё нужно человеку? </p>
+                              <p class="reviews__text-body2" data-js="text_overflow">Моя операция прошла совершенно спокойно. Когда есть зубы, чувствуешь свободу, как при покупке новой машины. Знаешь, что ты можешь улыбаться, можешь есть все, что угодно… Хорошая клиника. Хорошие врачи. Хорошее обслуживание. Что ещё нужно человеку? </p>
                            </div>
-                           <div class="reviews__image">
+                           <div class="reviews__image2">
                               <a href="javascript:void(0);" data-src="/build/ii/81db76485a08ad4856234cb3e780421060f34ef2.webp" data-js="image-popup">
                                  <img src="" data-lazy="/build/ii/8283e2227740cd637db6fc6d96e7ddc620dd64ed.webp" alt="">
                               </a>
                            </div>
                         </div>
-                        <div class="reviews__item">
-                           <a class="reviews__photo" href="https://www.youtube.com/watch?v=69cTmwsLSt4" data-js="video-popup">
+                        <div class="reviews__item2">
+                           <a class="reviews__photo2" href="https://www.youtube.com/watch?v=69cTmwsLSt4" data-js="video-popup">
                               <video autoplay muted playsinline loop>
                                  <source src="/build/ii/3d3b5171ab377cf0752fa4cd63031e5765443ad4.mp4" data-src="/build/ii/3d3b5171ab377cf0752fa4cd63031e5765443ad4.mp4" type="video/mp4" data-js="lazy">
                               </video>
                            </a>
-                           <div class="reviews__text">
-                              <div class="reviews__text-title">
+                           <div class="reviews__text2">
+                              <div class="reviews__text-title2">
                                  После операции моя<br/>жизнь изменилась замечательно!
                               </div>
-                              <p class="reviews__text-body" data-js="text_overflow">У меня появилось новое стремление к жизни. Потому что, действительно, от зубов ведь многое зависит. Я даже удивился тому, как всё прошло быстро и качественно. Уже после второго дня моё состояние стабилизировалось полностью. И жизнь моя изменилась замечательно! </p>
+                              <p class="reviews__text-body2" data-js="text_overflow">У меня появилось новое стремление к жизни. Потому что, действительно, от зубов ведь многое зависит. Я даже удивился тому, как всё прошло быстро и качественно. Уже после второго дня моё состояние стабилизировалось полностью. И жизнь моя изменилась замечательно! </p>
                            </div>
-                           <div class="reviews__image">
+                           <div class="reviews__image2">
                               <a href="javascript:void(0);" data-src="/build/ii/704c583c7c554e747186580f7806a34a49029359.webp" data-js="image-popup">
                                  <img src="" data-lazy="/build/ii/13315a634810ce7943b259b5ca68fafa07709de4.webp" alt="">
                               </a>
@@ -429,30 +448,30 @@
                         </div>
                      </div>
                   </div>
-                  <div class="reviews__advantages">
-                     <div class="reviews__advantage">
-                        <div class="reviews__advantage-image">
+                  <div class="reviews__advantages2">
+                     <div class="reviews__advantage2">
+                        <div class="reviews__advantage-image2">
                            <img src="" data-src="/build/ii/dd2a48b2ed996bb2d464f7bb7d5b92a65ea081c1.webp" alt="" data-js="lazy">
                         </div>
-                        <div class="reviews__advantage-text">Оптимальное решение при полном отсутствии зубов </div>
+                        <div class="reviews__advantage-text2">Оптимальное решение при полном отсутствии зубов </div>
                      </div>
-                     <div class="reviews__advantage">
-                        <div class="reviews__advantage-image">
+                     <div class="reviews__advantage2">
+                        <div class="reviews__advantage-image2">
                            <img src="" data-src="/build/ii/ec5362f7c36e6412741a2f7334627fe4eb020a90.webp" alt="" data-js="lazy">
                         </div>
-                        <div class="reviews__advantage-text">Костная пластика больше не&nbsp;нужна </div>
+                        <div class="reviews__advantage-text2">Костная пластика больше не&nbsp;нужна </div>
                      </div>
-                     <div class="reviews__advantage">
-                        <div class="reviews__advantage-image">
+                     <div class="reviews__advantage2">
+                        <div class="reviews__advantage-image2">
                            <img src="" data-src="/build/ii/c8b7f055d9b06c8978ae258d36c7dcfbff75eb2d.webp" alt="" data-js="lazy">
                         </div>
-                        <div class="reviews__advantage-text">Приживление имплантов — 99,8% </div>
+                        <div class="reviews__advantage-text2">Приживление имплантов — 99,8% </div>
                      </div>
-                     <div class="reviews__advantage">
-                        <div class="reviews__advantage-image">
+                     <div class="reviews__advantage2">
+                        <div class="reviews__advantage-image2">
                            <img src="" data-src="/build/ii/d6531e0950f626040dc76c2497dc9198362ee535.webp" alt="" data-js="lazy">
                         </div>
-                        <div class="reviews__advantage-text">Чёткая дикция и улыбка, как в молодости </div>
+                        <div class="reviews__advantage-text2">Чёткая дикция и улыбка, как в молодости </div>
                      </div>
                   </div>
                </div>
@@ -1252,7 +1271,7 @@
                             <input type="hidden" name="city" value="<?= $_GET["city"] ?? ''?>">
                            <div class="form__group-wrapper">
                               <div class="form__group form__group_phone required"> <input type="text" class="input input_phone" name="phone" required="" placeholder="Ваш номер"> </div>
-                              <div class="form__group form__group_button"> <button type="submit" class="btn btn_orange"> <span class="blink"></span> <span class="text" style="font-size: 22px;
+                              <div class="form__group form__group_button"> <button type="submit" onclick="_tmpPush()" class="btn btn_orange"> <span class="blink"></span> <span class="text" style="font-size: 22px;
     line-height: 1.2;">Подобрать план лечения</span> </button> </div>
                               <div class="form__policy">Нажимая на кнопку, вы соглашаетесь на обработку <a href="personal.pdf"><span>персональных данных</span></a></div>
                            </div>
@@ -1566,7 +1585,7 @@
                               <div class="employee__profession">
                                  <div>Челюстно-лицевой хирург, имплантолог</div>
                               </div>
-                              <a href="javascript:void(0);" class="btn btn_orange" data-js="popup" data-js-popup="modal-order-call" data-js-cbs=""> <span class="blink"></span> <span class="text" style="font-size: 22px">Записаться на <b>бесплатный</b>&nbsp;приём</span> </a>
+                              <a href="javascript:void(0);" class="btn btn_orange" data-js="popup" data-js-popup="modal-order-call" data-js-cbs=""> <span class="blink"></span> <span class="text" style="font-size: 20px">Записаться на <b>бесплатный</b>&nbsp;приём</span> </a>
                            </div>
                         </div>
                         <div class="employee">
@@ -1585,7 +1604,7 @@
                                     <nobr>хирург-имплантолог</nobr>
                                  </div>
                               </div>
-                              <a href="javascript:void(0);" class="btn btn_orange" data-js="popup" data-js-popup="modal-order-call" data-js-cbs=""> <span class="blink"></span> <span class="text" style="font-size: 22px">Записаться на <b>бесплатный</b>&nbsp;приём</span> </a>
+                              <a href="javascript:void(0);" class="btn btn_orange" data-js="popup" data-js-popup="modal-order-call" data-js-cbs=""> <span class="blink"></span> <span class="text" style="font-size: 20px">Записаться на <b>бесплатный</b>&nbsp;приём</span> </a>
                            </div>
                         </div>
                         <div class="employee">
@@ -1604,7 +1623,7 @@
                                     <nobr>хирург-ортопед</nobr>
                                  </div>
                               </div>
-                              <a href="javascript:void(0);" class="btn btn_orange" data-js="popup" data-js-popup="modal-order-call" data-js-cbs=""> <span class="blink"></span> <span class="text" style="font-size: 22px">Записаться на <b>бесплатный</b>&nbsp;приём</span> </a>
+                              <a href="javascript:void(0);" class="btn btn_orange" data-js="popup" data-js-popup="modal-order-call" data-js-cbs=""> <span class="blink"></span> <span class="text" style="font-size: 20px">Записаться на <b>бесплатный</b>&nbsp;приём</span> </a>
                            </div>
                         </div>                      
                        
@@ -1626,7 +1645,7 @@
                                     , <br>ортопед
                                  </div>
                               </div>
-                              <a href="javascript:void(0);" class="btn btn_orange" data-js="popup" data-js-popup="modal-order-call" data-js-cbs=""> <span class="blink"></span> <span class="text" style="font-size: 22px">Записаться на <b>бесплатный</b>&nbsp;приём</span> </a>
+                              <a href="javascript:void(0);" class="btn btn_orange" data-js="popup" data-js-popup="modal-order-call" data-js-cbs=""> <span class="blink"></span> <span class="text" style="font-size: 20px">Записаться на <b>бесплатный</b>&nbsp;приём</span> </a>
                            </div>
                         </div>
                      </div>
@@ -1895,7 +1914,7 @@
               <div class="row">
                   <div class="map-affiliates__grid">
                       <div>
-                          <div class="map-affiliates__title"> <span style="color: #e71762">2 центра</span> имплантации в <b>Екатеринбурге</b> </div>
+                          <div class="map-affiliates__title"> <span style="color: #e71762">3 центра</span> имплантации в <b>Екатеринбурге</b> </div>
                       </div>
                       <div>
                           <div class="map-affiliates__list">
@@ -1909,6 +1928,12 @@
                                   <div class="map-affiliates metro_violet">
                                       <!-- <div class="title"> Таганская (кольцевая) </div> -->
                                       <div class="address"> ул. Добролюбова д.16/2</div>
+                                  </div>
+                              </div>
+                              <div>
+                                  <div class="map-affiliates metro_yellow">
+                                      <!-- <div>Таганская (кольцевая)</div> -->
+                                      <div class="address">ул. Сулимова 53а</div>
                                   </div>
                               </div>
                           </div>
@@ -2126,7 +2151,7 @@
         </div>
         
         <div class="form__group form__group_button">
-            <button type="submit" class="btn btn_orange">
+            <button type="submit" onclick="_tmpPush()" class="btn btn_orange">
                 <span class="blink"></span>
                 <span class="text">Записаться</span>
             </button>
@@ -2231,7 +2256,7 @@
         </div>
         
         <div class="form__group form__group_button">
-            <button type="submit" class="btn btn_orange">
+            <button type="submit" onclick="_tmpPush()" class="btn btn_orange">
                 <span class="blink"></span>
                 <span class="text">Записаться</span>
             </button>
@@ -2335,7 +2360,7 @@
         </div>
         
         <div class="form__group form__group_button">
-            <button type="submit" class="btn btn_orange">
+            <button type="submit" onclick="_tmpPush()" class="btn btn_orange">
                 <span class="blink"></span>
                 <span class="text">Записаться</span>
             </button>
@@ -2439,7 +2464,7 @@
         </div>
         
         <div class="form__group form__group_button">
-            <button type="submit" class="btn btn_orange">
+            <button type="submit" onclick="_tmpPush()" class="btn btn_orange">
                 <span class="blink"></span>
                 <span class="text">Записаться</span>
             </button>
@@ -2475,7 +2500,7 @@
         </div>
         
         <div class="form__group form__group_button">
-            <button type="submit" class="btn btn_orange">
+            <button type="submit" onclick="_tmpPush()" class="btn btn_orange">
                 <span class="blink"></span>
                 <span class="text">Отправить</span>
             </button>
@@ -2496,7 +2521,7 @@
     </div>
 <button title="Закрыть (Esc)" type="button" class="mfp-close">×</button></div>
 
-         <div class="modal modal_affiliates" id="modal-affiliates">
+         <div class="modal modal_affiliates" id="modal-affiliates" data-js-scroll-target="modal-affiliates">
     <div class="modal__wrapper">
         <div class="modal__grid">
             <div>

@@ -1344,6 +1344,32 @@ button {
 	box-shadow: 0 13px 22px rgba(231, 90, 60, .2)
 }
 
+@media screen and (max-width: 1023px) {
+	.btn_orange {
+		font-size: 18px!important;
+	}
+
+	.btn_orange .text {
+		font-size: 16px!important;
+	}
+}
+
+@media screen and (max-width: 1349px) {
+	.btn_orange {
+		font-size: 18px!important;
+	}
+
+	.btn_orange .text {
+		font-size: 17px!important;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.text .more__small{
+		font-size: 16px!important;
+	}
+}
+
 .btn_orange:active {
 	background-color: #d95b00
 }
