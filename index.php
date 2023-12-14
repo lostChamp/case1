@@ -36,6 +36,24 @@
       </script>
       <noscript><div><img src="https://top-fwz1.mail.ru/counter?id=3464107;js=na" style="position:absolute;left:-9999px;" alt="Top.Mail.Ru" /></div></noscript>
       <!-- /Top.Mail.Ru counter -->
+
+      <!-- Yandex.Metrika counter -->
+         <script type="text/javascript" >
+      (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+      m[i].l=1*new Date();
+      for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+      k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+      (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+   
+      ym(95864869, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true,
+            webvisor:true
+      });
+      </script>
+      <noscript><div><img src="https://mc.yandex.ru/watch/95864869" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+      <!-- /Yandex.Metrika counter -->
       <script type="text/javascript">
          document.querySelectorAll("form").forEach(form => {
             form.addEventListener("submit", () => {
@@ -411,7 +429,7 @@
                              </h2>
                              <div class="subtitle">Мы работаем с любыми случаями, даже очень тяжёлыми </div>
                          </div>
-                         <div class="reviews__slider" data-js-reviews="slider">
+                         <div class="reviews__slider2" data-js-reviews="slider2">
                              <div class="reviews__item">
                                  <a class="reviews__photo" href="https://www.youtube.com/watch?v=Gh47IU5IZFc" data-js="video-popup">
                                      <video autoplay muted playsinline loop>
@@ -1714,7 +1732,7 @@
                   </div>
                </div>
                <div class="reviews__small_slider-wrapper">
-                  <div class="reviews__small_slider" data-js-reviews="slider-thumbnails">
+                  <div class="reviews__small_slider" data-js-reviews="slider-thumbnails2">
                      <div>
                         <div class="reviews__small_slider-item"> <img src="index.php" data-lazy="build/ii/5e6341d69a674b2f18d4179cfe21f49f3331487b.png" alt=""> </div>
                      </div>
@@ -1734,7 +1752,7 @@
                         <div class="reviews__small_slider-item"> <img src="index.php" data-lazy="build/ii/9b2bd64f0f7fb87383ef8e0125438c75fd2a5022.png" alt=""> </div>
                      </div>
                   </div>
-                  <div class="reviews__slider-navigation" data-js-reviews="slider-navigation"></div>
+                  <div class="reviews__slider-navigation" data-js-reviews="slider-navigation2"></div>
                </div>
             </div>
             <div class="reviews__video">

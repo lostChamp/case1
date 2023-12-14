@@ -17700,6 +17700,10 @@ textarea+label {
 
 /*section reviews*/
 
+.slick-active {
+	margin-right: 50px;
+}
+
 .reviews {
 	position: relative;
 	padding-top: 96px;
@@ -18014,7 +18018,7 @@ textarea+label {
 		margin-left: 0
 	}
 
-	.reviews__slider .slick-slide {
+	.reviews__slider2 .slick-slide {
 		width: 453px!important;
 		margin-right: 25px;
 		margin-left: 0
@@ -18151,7 +18155,7 @@ textarea+label {
 		margin-bottom: 39px
 	}
 
-	.reviews__slider .slick-slide {
+	.reviews__slider2 .slick-slide {
 		width: 567px!important;
 		margin-right: 45px
 	}
@@ -18248,7 +18252,7 @@ textarea+label {
 		display: flex
 	}
 
-	.reviews__slider .slick-slide {
+	.reviews__slider2 .slick-slide {
 		width: 290px!important
 	}
 

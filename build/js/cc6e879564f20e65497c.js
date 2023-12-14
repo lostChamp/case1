@@ -9299,7 +9299,7 @@
 					var t = this;
 					return this.$wrappers.each((function(n, o) {
 						var r = e(o),
-							i = r.find('[data-js-reviews="slider"]'),
+							i = r.find('[data-js-reviews="slider2"]'),
 							a = r.find('[data-js-reviews="slider-thumbnails"]'),
 							s = r.find('[data-js-reviews="slider-navigation"]');
 						e.extend(t._copyObj(t.options), {

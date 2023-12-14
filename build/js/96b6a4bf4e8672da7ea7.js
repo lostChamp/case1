@@ -10378,8 +10378,8 @@
                     return this.$wrappers.each((function(n, r) {
                         var o = e(r),
                             i = o.find('[data-js-reviews="slider"]'),
-                            a = o.find('[data-js-reviews="slider-thumbnails"]'),
-                            s = o.find('[data-js-reviews="slider-navigation"]'),
+                            a = o.find('[data-js-reviews="slider-thumbnails2"]'),
+                            s = o.find('[data-js-reviews="slider-navigation2"]'),
                             l = e.extend(t._copyObj(t.options), {
                                 asNavFor: a
                             }, !0);
